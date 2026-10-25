@@ -1,0 +1,134 @@
+﻿Warpstorm.online – Artikel-strukturer & Monetiseringsplan
+Dette dokument indeholder den fulde oversigt over de første 12 artikler (Workbench og Lore) til Warpstorm.online samt monetiseringsstrategien.
+
+
+________________
+
+
+Del 1: Strategi & Monetisering
+1. Affiliate Marketing (Hobbyudstyr & Bøger)
+* Indsæt partnerlinks i dine male- og værkstedsguider til maling (Vallejo, Citadel), pensler, airbrushes og hobbyværktøj.
+* Link til digitale e-bøger, lydbøger og analoge sci-fi-værker.
+2. Print-on-Demand & Merchandise (Printify)
+* Sælg originale T-shirts, hoodies, kaffekrus og art prints med mørke, rå, industri- og warp-inspirerede motiver (helt uafhængig af fremmede IP'er).
+3. Digitale Værktøjer & Guides (100% profit)
+* Sælg eksklusive maleguides, male-tabeller eller baggrunds-PDF'er for en fast pris (f.eks. 3–5 €).
+
+
+________________
+
+
+Del 2: Workbench-cluster (/workbench/)
+1. How to Paint Glowing Plasma Effects on Miniatures
+* URL: /workbench/glowing-plasma-effects/
+* Primært søgeord: glowing plasma effects miniatures
+* Struktur:
+   1. What you need (primer, basefarve, 2–3 lysere nuancer, pensel).
+   2. Choose the light source (plasma-coil, våben, øjne, portal).
+   3. Block in the glow (mørk base, derefter midtone omkring kilden).
+   4. Build the gradient (lysere mod centrum, mørkere udad).
+   5. Add reflected light (få streger på nabopaneler).
+   6. Final highlights (små, skarpe punkter).
+   7. Common mistakes & how to avoid them.
+   8. Warpstorm twist (grøn/turkis “storm-energy” eller violet portalglød).
+   9. Recommended paints and tools (Affiliate-sektion).
+   10. FAQ (OSL for beginners, color choices).
+2. Easy Weathering Techniques for Miniatures
+* URL: /workbench/easy-weathering-techniques/
+* Primært søgeord: easy weathering techniques miniatures
+* Struktur:
+   1. Introduction to weathering & industrial aesthetics.
+   2. Essential tools (mørke farver, svampe, wash, pigmenter).
+   3. Step 1: Sponge chipping (kanter og slidte zoner).
+   4. Step 2: Streaking grime (vertikale løb og snavs).
+   5. Step 3: Dust and mud pigments.
+   6. Recommended hobby supplies (Affiliate).
+3. How to Paint Rust, Chipping and Battle Damage
+* URL: /workbench/rust-and-battle-damage/
+* Primært søgeord: miniature rust weathering
+* Struktur:
+   1. Understanding rust textures on machinery.
+   2. Base coat and physical damage (skrammer med kniv eller skum).
+   3. Applying orange/brown rust tones.
+   4. Adding metallic edge highlights to chips.
+   5. Recommended weathering paints (Affiliate).
+4. Object Source Lighting for Miniatures: Simple OSL Guide
+* URL: /workbench/object-source-lighting/
+* Primært søgeord: object source lighting miniatures
+* Struktur:
+   1. What is OSL and why it elevates your models.
+   2. Determining light direction and falloff.
+   3. Layering transparent glazes.
+   4. Avoiding common over-glowing mistakes.
+   5. Recommended brushes and glaze mediums (Affiliate).
+5. Kitbashing Guide: Build Unique Sci-Fi Miniatures
+* URL: /workbench/kitbashing-guide/
+* Primært søgeord: kitbashing miniatures guide
+* Struktur:
+   1. What is kitbashing and how to find spare parts (bitz).
+   2. Essential tools (hobbykniv, plastiklim, green stuff).
+   3. Cutting, pinning, and gap-filling.
+   4. Creating silhouette balance on converted models.
+   5. Recommended hobby kits and tools (Affiliate).
+6. 3D Printed Terrain for Tabletop Games: Beginner Guide
+* URL: /workbench/3d-printed-terrain/
+* Primært søgeord: 3d printed tabletop terrain
+* Struktur:
+   1. FDM vs. Resin printers for terrain.
+   2. Best settings for clean, sturdy sci-fi walls and ruins.
+   3. Primer and painting prep for 3D prints.
+   4. Quick contrast-painting methods for large terrain pieces.
+   5. Recommended printers and filaments (Affiliate).
+7. Best Hobby Tools for Miniature Painting
+* URL: /workbench/best-hobby-tools/
+* Primært søgeord: miniature painting tools
+* Struktur:
+   1. The holy trinity: Good brushes, wet palette, and daylight lamp.
+   2. Cutters, files, and cleaning tools.
+   3. Ergonomics and desk setup.
+   4. Product roundups with direct affiliate buy links.
+8. Airbrush for Miniatures: Beginner Setup and First Paints
+* URL: /workbench/airbrush-for-beginners/
+* Primært søgeord: airbrush miniatures beginner
+* Struktur:
+   1. Choosing your first compressor and airbrush (dual-action).
+   2. Thinning paints and psi pressure guide.
+   3. Basecoating, priming, and zenithal highlighting.
+   4. Cleaning maintenance routine.
+   5. Recommended beginner bundles (Affiliate).
+
+
+________________
+
+
+Del 3: Lore-cluster (/lore/)
+1. What Is the Warpstorm? The Dark Heart of the Universe
+* URL: /lore/what-is-the-warpstorm/
+* Primært søgeord: warpstorm lore
+* Struktur:
+   1. Introduction to the anomaly known as the Warpstorm.
+   2. Physics breaking down: Where space and time collide.
+   3. The factions that feed upon the storm.
+   4. Narrative hook & internal links to lore stories.
+2. Warp Travel Explained: Routes, Storms and Lost Ships
+* URL: /lore/warp-travel-explained/
+* Primært søgeord: warp travel sci-fi lore
+* Struktur:
+   1. Navigating the unpredictable currents of the Empyrean.
+   2. The beacons that guide lost vessels.
+   3. Catastrophic storms and ghost ships drifting forever.
+   4. Recommended dark sci-fi audiobooks (Affiliate).
+3. The Fractured Factions of the Warpstorm
+* URL: /lore/chaotic-factions/
+* Primært søgeord: dark sci-fi factions
+* Struktur:
+   1. Overview of powers fighting inside the cosmic rift.
+   2. The industrial zealots, the corrupt machine cults, and the void nomads.
+   3. Ideologies and aesthetic design of each faction.
+4. 7 Lost Expeditions Into the Warpstorm
+* URL: /lore/lost-expedition-stories/
+* Primært søgeord: dark sci-fi short stories
+* Struktur:
+   1. Short-form atmospheric narratives from the edge of the storm.
+   2. Chronology of doomed exploration fleets.
+   3. Relics recovered from the void.

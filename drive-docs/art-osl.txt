@@ -1,0 +1,36 @@
+﻿Object Source Lighting for Miniatures: Simple OSL Guide
+URL: /workbench/object-source-lighting/
+Primært søgeord: object source lighting miniatures
+
+
+Object Source Lighting (OSL) er teknikken, hvor lyset på en miniature ikke kommer fra en generel ovenlys-kilde, men fra selve objektet – f.eks. et glødende sværd, et plasma-gevær eller en magisk krystalkugle. Det skaber en intens, dramatisk stemning.
+
+
+________________
+
+
+1. What Is OSL and Why It Elevates Your Models
+Når en lyskilde kaster lys på omgivelserne, ændrer det farven på alt, det rammer. Det giver en øjeblikkelig "wowsagtig" effekt og drager beskuerens blik direkte mod miniaturens brændpunkt.
+2. Determining Light Direction and Falloff
+* Reglen om afstand: Jo tættere en overflade er på lyskilden, jo kraftigere og mere mættet er farven. Jo længere væk, jo mere svækkes lyset og blandes med modellens grundfarve.
+* Blokér lyset: Genstande, der står i vejen (f.eks. en arm eller en kragefod), kaster skygger væk fra lyskilden.
+3. Layering Transparent Glazes
+Byg aldrig OSL op med tyk maling:
+
+
+1. Brug stærkt fortyndede farver (glazes) eller akryl-inks.
+2. Læg flere tynde lag over de områder, der rammes af lyset.
+3. Lad midten af lyskilden forblive næsten hvid for at bevare intensiteten.
+4. Avoiding Common Over-Glowing Mistakes
+* For meget farve over det hele: Lys rammer kun kanter og flader, der vender direkte mod kilden.
+* Manglende hvid kilde: Uden et helt skarpt hvidt midtpunkt ser lyset ud som en plamage i stedet for en aktiv lyskilde.
+5. Recommended Brushes and Glaze Mediums (Affiliate)
+* Vallejo Glaze Medium – Gør det muligt at strække farven ud til tynde, gennemsigtige slør.
+* Da Vinci Maestro Series Kolinsky Brushes – Perfekt kontrol over våde spidser.
+
+
+________________
+
+
+FAQ
+* Er OSL svært for begyndere? Det kræver tålmodighed, men ved at starte med små flader (f.eks. glødende øjne) lærer man hurtigt princippet.

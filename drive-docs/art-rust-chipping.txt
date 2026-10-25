@@ -1,0 +1,35 @@
+﻿How to Paint Rust, Chipping and Battle Damage
+URL: /workbench/rust-and-battle-damage/
+Primært søgeord: miniature rust weathering
+
+
+Intet fortæller historien om en maskine fanget i Warpstormens hjerte bedre end dyb, ætsende rust og flænset panser. Denne guide viser dig, hvordan du skaber realistiske rusteffekter og fysiske kampskader på dine sci-fi-modeller.
+
+
+________________
+
+
+1. Understanding Rust Textures on Machinery
+Rust opstår ikke bare som en farve; det er en tekstur. Det spiser sig igennem maling, svækker metallet og samler sig i samlinger, nitter og langs paneler, hvor fugt og støv ophobes.
+2. Base Coat and Physical Damage (Kampskader)
+Før du tilføjer rust, skal selve metallet se beskadiget ud:
+
+
+* Brug spidsen af en hobbykniv eller kanten på en lille fil til at lave skarpe hakker i kanterne af panseret.
+* Opvarm evt. et metalværktøj forsigtigt, og pres det mod plasten for at skabe realistiske smelte- eller bolværksskader.
+* Læg en mørk metalbase over skaderne.
+3. Applying Orange and Brown Rust Tones
+1. Dup mørk chokoladebrun i de dybeste revner og omkring kampskaderne med en lille, stiv pensl.
+2. Dup derefter en lysere orange-brun farve (f.eks. Vallejo Orange Brown) oveni, men sørg for, at den mørke kant stadig kan ses som en skygge.
+4. Adding Metallic Edge Highlights
+For at få rusten til at se ætsende ud, skal du fremhæve kanten af metallet omkring skaden med en skarp, lys sølvfarve. Det viser, at metallet for nylig er blevet flænset.
+5. Recommended Weathering Paints (Affiliate)
+* Vallejo Rust & Chipping Texture Set – Alt hvad du skal bruge til ægte tekstur-rust.
+* AK Interactive Light Rust Deposit – Perfekt til flydende ruststriber.
+
+
+________________
+
+
+FAQ
+* Kan jeg bruge ægte metalstøv? Ja, specialiserede jernpigmenter kan ruste kemisk, men akrylmaling er langt lettere at kontrollere.

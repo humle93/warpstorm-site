@@ -1,0 +1,71 @@
+# How to Paint Rust, Chipping and Battle Damage on Miniatures
+
+**Short answer:** Paint rust in three layers — dark brown base in recesses, orange-brown texture in the middle, bright metallic chips on the sharpest edges — and create physical damage by scoring the model with a hobby knife before painting. Real chips show bare metal, not just brown paint. That metallic flash is what sells the effect.
+
+*URL: /workbench/rust-and-battle-damage/ · Primary keyword: miniature rust weathering*
+
+> *Disclosure: Some links on this page are affiliate links — if you buy through them, we may earn a small commission at no extra cost to you.*
+
+## Understanding Rust Textures
+
+Rust is not one colour — it's a gradient from fresh metal (bright) through oxidised orange to deep brown-black crust. The location matters as much as the colour: rust blooms where water collects (recesses, panel joins, undersides) and where friction strips paint (edges, handles, walking surfaces).
+
+## Step 1: Base Coat and Physical Damage
+
+Before any paint, decide where battle damage goes. Then create real texture:
+
+- **Scrapes:** drag the tip of a hobby knife lightly across the surface — paint pools in the grooves and reads as gouges
+- **Dents:** press a foam ball or brush handle into soft plastic for craters
+- **Holes:** a pin drill or heated needle makes clean projectile holes on vehicle hulls
+
+Prime dark. The physical marks now hold paint differently than the flat surface — free realism.
+
+## Step 2: Apply the Rust Tones
+
+1. **Dark brown base** in all recesses and around the damage — this is the shadow of the rust
+2. **Orange-brown midtone** dabbed on with a sponge or stippled with a ruined brush, covering 60% of the rust zone
+3. **Bright orange highlights** on the most exposed parts of the rust bloom
+
+Keep it stippled, not brushed — rust never has smooth edges.
+
+## Step 3: Metallic Edge Highlights on Chips
+
+Every chip that cuts through paint should show **bare metal**: a tiny dot or streak of bright silver on the chip's sharpest edge, with the rust tones surrounding it. Sequence: brown crater → orange halo → silver core. Two colours on a toothpick-sized dot is enough.
+
+## Advanced: Rust Streaks Under Chips
+
+Gravity drags rust downward from the damage point. From the bottom edge of each chip, draw a thin, fading line of orange-brown. This single detail moves the model from "painted rust" to "lived-in machine."
+
+## Recommended Weathering Paints
+
+| Product type | Use | Level |
+|---|---|---|
+| Rust effect paint set | Pre-mixed orange/brown spectrum | Beginner |
+| Chipping medium | Layer trick: paint breaks away realistically | Intermediate |
+| Bright silver (metallic) | Chip cores — you'll use it constantly | All |
+| Pigment fixer | Locks powdery rust dust | All |
+
+*(Affiliate links — buying through them keeps the guides free.)*
+
+## FAQ
+
+**How do I make battle damage look realistic?**
+Follow the logic of damage: chipping on edges that get hit, rust where moisture sits, fresh metallic on *new* damage and oxidised tones on old. Random damage everywhere is the tell-tale beginner sign.
+
+**Can battle damage be done without a hobby knife?**
+Yes — sponge chipping with dark paint fakes physical damage convincingly. But real scored marks add shadow depth paint alone can't.
+
+**Which primer for rust effects?**
+Dark grey or black. Rust tones are semi-transparent and dark primer gives them depth; a white primer washes the effect out.
+
+**How much battle damage should one model have?**
+Vehicles: 5–10 spots. Infantry: 2–3 subtle chips. The model must remain readable from a metre away — damage is seasoning, not the dish.
+
+## Continue on the Workbench
+
+- 👉 **[Easy Weathering Techniques for Miniatures](/workbench/easy-weathering-techniques/)** — sponge chipping, streaks and dust
+- 👉 **[Best Hobby Tools for Miniature Painting](/workbench/best-hobby-tools/)** — the knife and files this guide assumes
+- 👉 **[The Industrial Zealots: Faction Lore](/lore/chaotic-factions/)** — the machine-cult aesthetic behind the rust
+- 👉 **[Warp Travel Explained](/lore/warp-travel-explained/)** — why lost ships come back rusted
+
+> **Rust is storytelling in paint.** Every chip says what happened to this machine — decide the story before the first stroke. **[Shop rust & weathering paints →](/shop/weathering/)** *(affiliate links)*
