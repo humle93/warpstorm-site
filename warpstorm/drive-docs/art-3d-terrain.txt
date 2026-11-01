@@ -1,0 +1,34 @@
+﻿3D Printed Terrain for Tabletop Games: Beginner Guide
+URL: /workbench/3d-printed-terrain/
+Primært søgeord: 3d printed tabletop terrain
+
+
+At bygge sit eget spilbord med 3D-printede moduler er en af de mest tilfredsstillende måder at hæve kvaliteten på sine brætspil og wargames på. Denne guide giver dig fundamentet for at vælge printer, opsætning og maling af terræn.
+
+
+________________
+
+
+1. FDM vs. Resin Printers for Terrain
+* FDM-printere (Tråd): Det ideelle valg til terræn. De kan printe store emner billigt, er robuste og har en struktur, der ofte ligner beton eller stålplader, når de males.
+* Resin-printere (Væske): Fantastiske til små figurer og skarpe detaljer, men upraktiske og dyre til store vægge og ruiner.
+2. Best Settings for Clean, Sturdy Sci-Fi Walls and Ruins
+* Lagtykkelse (Layer Height): 0.16 mm eller 0.20 mm giver en god balance mellem printhastighed og detaljegrad.
+* Infill (Indmad): 15–20% gyroid infill giver stærke vægge, der ikke knækker under spil.
+3. Primer and Painting Prep
+3D-print kan have synlige laglinjer:
+
+
+1. Brug en fyldig primer (filler primer), der udjævner overfladen.
+2. Mal med en mørk spray-base (f.eks. sort eller mørkegrå).
+3. Brug tørbrætning (drybrushing) med lysegrå eller metalfarver for lynhurtigt at fremhæve alle mursten og detaljer.
+4. Recommended Printers and Filaments (Affiliate)
+* Creality Ender 3 V3 / Bambu Lab A1 – Markedets bedste begynderprintere til terræn.
+* Sunlu PLA Filament – Stærkt og pålideligt materiale til store bygge-prints.
+
+
+________________
+
+
+FAQ
+* Skal jeg bruge lim til printede dele? Ja, standard sekundlim (superlim) er perfekt til at samle store vægge og ruin-moduler.

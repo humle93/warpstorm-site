@@ -1,0 +1,47 @@
+/* ============================================================
+   GRIMDARK CSS v1 (Warhammer-track) — WORKSHOP SKIN (additive, safe)
+   LEARN → BUILD → SHOP → COMPLETE THE LOOK
+   Tokens: black #0A0A0C · dark red #8C1D2C · gold #B8963E
+   bone #E8E0D0 · grey #9A9A9A · base bg #0A0A0C
+   ============================================================ */
+
+/* --- 3. Forsiden som værksted: 4 stationer --- */
+.sg-stations{display:grid;grid-template-columns:repeat(4,1fr);gap:18px;margin:32px 0}
+.sg-station{position:relative;background:linear-gradient(160deg,rgba(184,150,62,.14),rgba(23,23,23,.55));border:1px solid rgba(184,150,62,.35);border-radius:10px;padding:26px 20px;text-align:center;text-decoration:none;color:#F3E8D0;overflow:hidden}
+.sg-station:hover{border-color:#B8963E;transform:translateY(-3px);transition:all .2s ease}
+.sg-station::before{content:"";position:absolute;top:0;left:0;right:0;height:3px;background:linear-gradient(90deg,#8C1D2C,#B8963E,#8C1D2C)}
+.sg-station-no{display:inline-block;font-size:11px;letter-spacing:.25em;color:#B8963E;border:1px solid rgba(184,150,62,.5);border-radius:999px;padding:3px 12px;margin-bottom:12px}
+.sg-station h3{font-size:1.05rem;letter-spacing:.12em;text-transform:uppercase;margin:0 0 8px;color:#F3E8D0}
+.sg-station p{font-size:.92rem;color:#9A9A9A;margin:0;line-height:1.5}
+@media(max-width:900px){.sg-stations{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:520px){.sg-stations{grid-template-columns:1fr}}
+
+/* --- 5. Projektkort (BUILD/DIY format) --- */
+.sg-project-card{background:rgba(23,23,23,.72);border:1px solid rgba(184,150,62,.3);border-radius:10px;padding:24px;margin:28px 0}
+.sg-project-card .sg-pc-head{display:flex;flex-wrap:wrap;gap:8px;margin-bottom:14px}
+.sg-pc-badge{display:inline-block;font-size:12px;letter-spacing:.06em;color:#F3E8D0;background:rgba(184,150,62,.25);border:1px solid rgba(184,150,62,.45);border-radius:6px;padding:4px 10px}
+.sg-pc-badge b{color:#B8963E;font-weight:600}
+.sg-pc-difficulty b{color:#8C1D2C}
+.sg-project-card h2{margin-top:0}
+
+/* --- 4. Shop som værkstedsbutik: portal --- */
+.sg-shop-portal{display:grid;grid-template-columns:repeat(4,1fr);gap:16px;margin:28px 0}
+.sg-portal-choice{display:flex;flex-direction:column;justify-content:center;gap:6px;background:rgba(23,23,23,.72);border:1px solid rgba(184,150,62,.3);border-radius:10px;padding:22px 18px;color:#F3E8D0;text-decoration:none;text-align:center;min-height:120px}
+.sg-portal-choice:hover{border-color:#B8963E}
+.sg-portal-choice span{font-size:12px;letter-spacing:.2em;color:#B8963E;text-transform:uppercase}
+.sg-portal-choice strong{font-size:1rem;font-weight:600}
+@media(max-width:900px){.sg-shop-portal{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:520px){.sg-shop-portal{grid-template-columns:1fr}}
+
+/* --- 4b. Complete Looks kollektionsbadges --- */
+.sg-look-grid{display:grid;grid-template-columns:repeat(5,1fr);gap:14px;margin:28px 0}
+.sg-look{position:relative;border:1px solid rgba(184,150,62,.35);border-radius:10px;padding:20px 14px;text-align:center;color:#F3E8D0;text-decoration:none;background:linear-gradient(180deg,rgba(184,150,62,.12),rgba(11,6,32,.6))}
+.sg-look:hover{border-color:#B8963E}
+.sg-look strong{display:block;font-size:.98rem;margin-bottom:4px}
+.sg-look em{font-style:normal;font-size:.8rem;color:#9A9A9A}
+@media(max-width:900px){.sg-look-grid{grid-template-columns:repeat(2,1fr)}}
+@media(max-width:480px){.sg-look-grid{grid-template-columns:1fr}}
+
+/* --- Guides → shop krydssalg --- */
+.sg-ctb{background:rgba(184,150,62,.12);border:1px solid rgba(184,150,62,.4);border-radius:10px;padding:18px 20px;margin:26px 0}
+.sg-ctb p{margin:0 0 10px;color:#F3E8D0}

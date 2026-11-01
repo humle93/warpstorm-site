@@ -1,0 +1,27 @@
+﻿Warpstorm.online – Tjekliste & Manglende Elementer til Fuld Lansering
+For at sikre at Warpstorm.online er 100% klar til både besøgende, søgemaskiner og Printify-salg, er her de vigtigste elementer, der typisk mangler i en opstartfase, samt en køreplan for de næste skridt:
+
+
+________________
+
+
+1. Tekniske og Juridiske Sider (Det skal på plads før salg)
+* Privatlivspolitik (Privacy Policy): Lovpligtig i EU (GDPR), især når du indsamler cookies og bruger Google Analytics.
+* Handelsbetingelser & Fortrydelsesret (Terms & Conditions / EU Returns): Særlig vigtigt, når du sælger fysiske produkter via Printify (oplys om produktionstid, forsendelse og 14 dagers returret).
+* Om os (About Us / Workshop Journal): En kort præsentation af hvem der står bag Warpstorm.online, og hvad universet handler om (styrker E-E-A-T og troværdighed over for Google).
+* Kontakt-side: En enkel formular eller e-mailadresse, så kunder kan kontakte dig vedrørende ordrer eller spørgsmål.
+2. WooCommerce & Printify Opsætning
+* Testordre: Bestil altid mindst ét fysisk eksemplar af et produkt (f.eks. en T-shirt eller et mobilcover) for at tjekke printkvalitet, farvegengivelse og materiale, før du åbner for den store salgsfront.
+* Valuta og Moms: Sørg for at WooCommerce er sat op til Euro (€) eller DKK, og at momsregler for EU-kunder er korrekt integreret.
+* Forsendelseszoner: Opret faste fragtrater i Printify/WooCommerce, så kunden kender den samlede pris ved checkout.
+3. SEO & Interne Links (Næste skridt på sitet)
+* Kategori- og Hub-sider: Opret faste oversigts-sider for /workbench/ og /lore/, hvor alle de nye artikler samles, så Google nemt forstår sitets struktur.
+* Interne Links: Sørg for at linke aktivt mellem dine lore-artikler og male-guider (f.eks. link fra en lore-historie til en maleguide om plasmaeffekter).
+
+
+________________
+
+
+
+
+Dokument oprettet som den ultimative tjekliste til eksekvering af Warpstorm.online.
