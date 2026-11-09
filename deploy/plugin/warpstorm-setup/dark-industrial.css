@@ -1,0 +1,225 @@
+/* =================================================================
+
+   WARPSTORM.ONLINE - DARK INDUSTRIAL & COSMIC RIFT THEME
+
+   ================================================================ */
+
+:root {
+
+  --ws-bg: #0b0710;
+
+  --ws-bg-card: #15101f;
+
+  --ws-panel: #1e172d;
+
+  --ws-border: #3d2c52;
+
+  --ws-primary: #8a3ffc;
+
+  --ws-primary-hover: #9d5cfc;
+
+  --ws-glow-teal: #00f0ff;
+
+  --ws-glow-purple: #b14aee;
+
+  --ws-text: #e2d9ec;
+
+  --ws-text-muted: #a69bb8;
+
+  --ws-accent-copper: #c46d3e;
+
+  --ws-shadow: rgba(0, 0, 0, 0.75);
+
+}
+
+/* Sidedesign & Kosmisk Baggrund */
+
+body {
+
+  background: 
+
+    radial-gradient(circle at 15% 10%, rgba(137, 63, 252, 0.12), transparent 35%),
+
+    radial-gradient(circle at 85% 85%, rgba(0, 240, 255, 0.08), transparent 40%),
+
+    var(--ws-bg);
+
+  color: var(--ws-text);
+
+  font-family: "Courier New", Courier, monospace, sans-serif;
+
+  letter-spacing: 0.02em;
+
+}
+
+/* Header & Navigation */
+
+.site-header, header, .wp-block-template-part {
+
+  background: linear-gradient(180deg, #140d1f, #08050c);
+
+  border-bottom: 2px solid var(--ws-border);
+
+  box-shadow: 0 4px 25px var(--ws-shadow);
+
+}
+
+/* Typografi & Overskrifter */
+
+.site-title, .wp-block-site-title, h1, h2, h3, h4, h5, h6 {
+
+  color: #f3eff8;
+
+  font-family: "Courier New", Courier, monospace, sans-serif;
+
+  letter-spacing: 0.05em;
+
+  text-transform: uppercase;
+
+  text-shadow: 0 0 10px rgba(137, 63, 252, 0.3);
+
+}
+
+h1, h2 {
+
+  border-bottom: 1px solid var(--ws-border);
+
+  padding-bottom: 0.3em;
+
+}
+
+/* Brødtekst & Lister */
+
+p, li {
+
+  color: var(--ws-text);
+
+  line-height: 1.8;
+
+}
+
+/* Links */
+
+a {
+
+  color: var(--ws-glow-teal);
+
+  text-decoration: none;
+
+  transition: color 0.2s ease;
+
+}
+
+a:hover {
+
+  color: var(--ws-primary-hover);
+
+  text-shadow: 0 0 8px rgba(0, 240, 255, 0.4);
+
+}
+
+/* Indholdskort, Artikler & Produkter */
+
+.wp-block-group, .wp-block-column, .woocommerce ul.products li.product, .woocommerce div.product, article {
+
+  background: linear-gradient(145deg, rgba(29, 21, 41, 0.9), rgba(15, 11, 23, 0.95));
+
+  border: 1px solid var(--ws-border);
+
+  border-radius: 2px;
+
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.5);
+
+  padding: 1.25rem;
+
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+
+}
+
+.wp-block-group:hover, article:hover {
+
+  border-color: var(--ws-primary);
+
+  box-shadow: 0 0 15px rgba(137, 63, 252, 0.25);
+
+}
+
+/* Knapper & Call-to-Action */
+
+button, .wp-block-button__link, .woocommerce a.button, .woocommerce button.button, .woocommerce input.button {
+
+  background: linear-gradient(180deg, #7c2dcc, #4a158a);
+
+  border: 1px solid var(--ws-glow-purple);
+
+  border-radius: 2px;
+
+  box-shadow: 0 4px 0 #230947, 0 8px 20px rgba(0, 0, 0, 0.4);
+
+  color: #fff;
+
+  font-weight: 700;
+
+  letter-spacing: 0.08em;
+
+  padding: 0.85em 1.5em;
+
+  text-transform: uppercase;
+
+  transition: all 0.2s ease;
+
+}
+
+button:hover, .wp-block-button__link:hover, .woocommerce a.button:hover, .woocommerce button.button:hover {
+
+  background: linear-gradient(180deg, #9343e6, #5d1bb5);
+
+  border-color: var(--ws-glow-teal);
+
+  box-shadow: 0 0 12px rgba(0, 240, 255, 0.4), 0 4px 0 #230947;
+
+  color: #fff;
+
+}
+
+/* Inputfelter & formularer */
+
+input, textarea, select {
+
+  background: #0d0914;
+
+  border: 1px solid var(--ws-border);
+
+  color: var(--ws-text);
+
+  border-radius: 2px;
+
+  padding: 0.75em;
+
+}
+
+input:focus, textarea:focus {
+
+  border-color: var(--ws-glow-teal);
+
+  outline: none;
+
+  box-shadow: 0 0 8px rgba(0, 240, 255, 0.3);
+
+}
+
+/* Footer */
+
+.site-footer, footer {
+
+  background: #07040a;
+
+  border-top: 2px solid var(--ws-border);
+
+  color: var(--ws-text-muted);
+
+  padding: 2rem 0;
+
+  text-align: center;
+
+}
