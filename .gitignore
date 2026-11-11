@@ -1,0 +1,4 @@
+# Credentials — aldrig i git
+.wp-auth*
+**/.wp-auth*
+*.env.local

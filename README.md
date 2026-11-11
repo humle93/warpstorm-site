@@ -5,6 +5,7 @@ Versionstyring for **Warpstorm** (Warhammer 40K-projektet, grimdarkbuilds.com / 
 ## Struktur
 - `articles/` — klargjorte artikler (skabelon: H1 → kort svar → disclosure → tabel → guide → billeder → FAQ → interne links → CTA).
 - `docs/warpstorm-grimdark-plan.md` — komplet WordPress-pakke (TT5, plugins, kategorier, CSS-vars, 34 artikler, monetisering).
+- `ROADMAP.md` — samlet roadmap og status (start her).
 - `docs/kickoff-drejebog.md` — drejebog fase 0-2.
 - `docs/` ellers: statusnoter pr. artikel.
 
