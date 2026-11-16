@@ -48,14 +48,14 @@ Give your models the Warpstorm signature: paint the glow in **storm-green/turquo
 
 ## Recommended Paints and Tools
 
-| Item | Why | Level |
-|---|---|---|
-| Starter acrylic set (blues/violets/greens) | Covers every glow hue you need | Beginner |
-| Glaze medium | Smooths gradients without re-thinning | Intermediate |
-| Kolinsky detail brush #0 | Sharp pinpoint highlights | All |
-| Wet palette | Keeps thin glow mixes workable for hours | All |
+| Pick | Why | Level | Buy |
+|---|---|---|---|
+| Acrylic starter set (Vallejo Game Color or The Army Painter) | Covers every glow hue you need (blues, violets, greens) | Beginner | [Check price →](/go/acrylic-starter-set/) |
+| Vallejo Glaze Medium | Smooths gradients without re-thinning | Intermediate | [Check price →](/go/vallejo-glaze-medium/) |
+| Winsor & Newton Series 7 Kolinsky #0 | Sharp pinpoint highlights | All | [Check price →](/go/ws7-0/) |
+| Redgrass Games Everlasting Wet Palette | Keeps thin glow mixes workable for hours | All | [Check price →](/go/redgrass-wet-palette/) |
 
-*(Affiliate links — buy through them to support more guides.)*
+*(Affiliate links — buying through them supports the workbench. Prices and stock change — each link opens the current listing.)*
 
 ## FAQ
 

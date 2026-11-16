@@ -45,14 +45,15 @@ If three elements fight for dominance, remove one. Squint at the model: if the s
 
 ## Recommended Hobby Kits and Tools
 
-| Item | Why | Level |
-|---|---|---|
-| Hobby starter tool set | Knife, cutters, files in one buy | Beginner |
-| Green stuff (2-part putty) | Gap-filling and sculpting | All |
-| Pin drill set | Strong joins for heavy bitz | Intermediate |
-| Spares/bitz assortment packs | Instant parts library | All |
+| Pick | Why | Level | Buy |
+|---|---|---|---|
+| Hobby starter tool kit (e.g. The Army Painter Tool Kit) | Knife, cutters and files in one buy | Beginner | [Check price →](/go/hobby-tool-kit/) |
+| Tamiya Extra Thin Cement | Welds plastic parts with clean, thin seams | All | [Check price →](/go/tamiya-extra-thin/) |
+| Kneadatite green stuff (2-part putty) | Gap-filling and sculpting | All | [Check price →](/go/green-stuff/) |
+| Pin vise with 0.5–3 mm drill bits | Strong joins for heavy parts | Intermediate | [Check price →](/go/pin-vise/) |
+| Plastic card & rod assortment (e.g. Evergreen) | Armour plates, pipes and panels from scratch | All | [Check price →](/go/plasticard-assortment/) |
 
-*(Affiliate links — buying through them supports more guides.)*
+*(Affiliate links — buying through them supports the workbench. Prices and stock change — each link opens the current listing.)*
 
 ## FAQ
 

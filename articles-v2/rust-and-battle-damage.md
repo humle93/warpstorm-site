@@ -38,14 +38,14 @@ Gravity drags rust downward from the damage point. From the bottom edge of each 
 
 ## Recommended Weathering Paints
 
-| Product type | Use | Level |
-|---|---|---|
-| Rust effect paint set | Pre-mixed orange/brown spectrum | Beginner |
-| Chipping medium | Layer trick: paint breaks away realistically | Intermediate |
-| Bright silver (metallic) | Chip cores — you'll use it constantly | All |
-| Pigment fixer | Locks powdery rust dust | All |
+| Pick | Why | Level | Buy |
+|---|---|---|---|
+| Rust effects paint set (Vallejo or AK Interactive) | Pre-mixed orange/brown spectrum | Beginner | [Check price →](/go/rust-effects-set/) |
+| Chipping medium (AK Worn Effects or Vallejo Chipping Medium) | Layer trick: paint breaks away realistically | Intermediate | [Check price →](/go/chipping-medium/) |
+| Vallejo Metal Color Silver | Chip cores — you'll use it constantly | All | [Check price →](/go/vallejo-metal-silver/) |
+| AK Interactive Pigment Fixer | Locks powdery rust dust | All | [Check price →](/go/ak-pigment-fixer/) |
 
-*(Affiliate links — buying through them keeps the guides free.)*
+*(Affiliate links — buying through them supports the workbench. Prices and stock change — each link opens the current listing.)*
 
 ## FAQ
 

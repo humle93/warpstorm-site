@@ -50,14 +50,14 @@ A full table of terrain (a dozen pieces) is a two-weekend project with this meth
 
 ## Recommended Printers and Filaments
 
-| Item | Why | Level |
-|---|---|---|
-| Beginner FDM printer | Large build volume beats fancy features | Beginner |
-| PLA+ filament (grey) | Sturdy, hides lines, cheap | All |
-| Filler primer spray | Smooths layer lines fast | All |
-| Large drybrush set | Terrain-sized tools for terrain-sized jobs | All |
+| Pick | Why | Level | Buy |
+|---|---|---|---|
+| FDM printer with a big bed (e.g. Bambu Lab A1, 256 mm cube) | Large build volume beats fancy features | Beginner | [Check price →](/go/bambu-a1/) |
+| eSUN PLA+ filament, grey | Sturdy, hides layer lines, cheap | All | [Check price →](/go/esun-pla-grey/) |
+| Filler primer spray (e.g. Rust-Oleum Filler Primer) | Smooths layer lines fast | All | [Check price →](/go/filler-primer/) |
+| Drybrush set (e.g. Artis Opus Series D) | Terrain-sized brushes for terrain-sized jobs | All | [Check price →](/go/artis-opus-d/) |
 
-*(Affiliate links — buying through them supports the workbench.)*
+*(Affiliate links — buying through them supports the workbench. Prices and stock change — each link opens the current listing.)*
 
 ## FAQ
 

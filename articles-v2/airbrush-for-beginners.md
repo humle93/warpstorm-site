@@ -39,15 +39,16 @@ Skip the $30 "airbrush kits" from marketplace sites — their compressors lack t
 
 ## Recommended Beginner Bundles
 
-| Item | Why | Priority |
-|---|---|---|
-| Compressor with tank | Stable, quiet, motor lasts | Buy first |
-| Dual-action gravity brush (0.3 mm) | The all-rounder | Buy first |
-| Airbrush thinner + flow improver | Consistency control | Buy first |
-| Cleaning solution + spare nozzle/needle kit | Maintenance survival kit | Buy immediately |
-| Spray booth/filter | Indoor painting without painting the room | Second month |
+| Pick | Why | Priority | Buy |
+|---|---|---|---|
+| Compressor with air tank (e.g. Sparmax TC-620X) | Stable pressure, quiet, the motor lasts | Buy first | [Check price →](/go/compressor-tank/) |
+| Iwata Neo CN — 0.35 mm, gravity-feed, dual-action | The all-rounder for priming and detail | Buy first | [Check price →](/go/iwata-neo-cn/) |
+| Upgrade: Iwata Eclipse HP-CS | Same layout, tighter tolerances — the brush you keep for years | Later | [Check price →](/go/iwata-eclipse/) |
+| Vallejo Airbrush Thinner + Airbrush Flow Improver | Consistency control, less tip-dry | Buy first | [Check price →](/go/vallejo-thinner-flow/) |
+| Vallejo Airbrush Cleaner + spare needle/nozzle for your brush | Maintenance survival kit | Buy immediately | [Check price →](/go/vallejo-airbrush-cleaner/) |
+| Hobby spray booth with filter and LED | Indoor painting without painting the room | Second month | [Check price →](/go/spray-booth/) |
 
-*(Affiliate links — buying through them supports the workbench.)*
+*(Affiliate links — buying through them supports the workbench. Prices and stock change — each link opens the current listing.)*
 
 ## FAQ
 

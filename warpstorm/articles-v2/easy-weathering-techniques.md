@@ -41,14 +41,15 @@ Concentrate pigments where the model touches the world: the lowest 20% of the mi
 
 ## Recommended Hobby Supplies
 
-| Item | Why it matters | Level |
-|---|---|---|
-| Weathering pigment set (earth tones) | Dust, mud and soot in one box | Beginner-friendly |
-| Streaking grime enamel | The pro shortcut for panel runs | Intermediate |
-| Makeup sponge pack | Cheaper than hobby sponges, same result | All |
-| Pigment fixer | Keeps dust where you put it | All |
+| Pick | Why | Level | Buy |
+|---|---|---|---|
+| AK Interactive weathering pigments (earth tones) | Dust, mud and soot in one box | Beginner-friendly | [Check price →](/go/ak-pigments/) |
+| AK Interactive Streaking Grime (enamel) | The pro shortcut for panel runs | Intermediate | [Check price →](/go/ak-streaking-grime/) |
+| Odourless enamel thinner (e.g. AK Interactive White Spirit) | Blends and removes enamel streaks | Intermediate | [Check price →](/go/ak-odourless-thinner/) |
+| Makeup sponge wedges (bulk pack) | Cheaper than hobby sponges, same result | All | [Check price →](/go/makeup-sponges/) |
+| AK Interactive Pigment Fixer | Keeps dust where you put it | All | [Check price →](/go/ak-pigment-fixer/) |
 
-*(Affiliate links — support more guides by buying through them.)*
+*(Affiliate links — buying through them supports the workbench. Prices and stock change — each link opens the current listing.)*
 
 ## FAQ
 

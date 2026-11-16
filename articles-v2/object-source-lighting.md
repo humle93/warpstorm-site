@@ -50,12 +50,14 @@ Paint the emitting object at maximum brightness: base colour → bright tone →
 
 ## Recommended Brushes and Glaze Mediums
 
-- **Glaze medium** — the single most useful OSL purchase
-- **Soft Taklon glaze brush (#2)** — holds a thin, even coat
-- **Kolinsky detail brush (#0)** — for reflected streaks
-- **Matte varnish** — kills any accidental shine before you start glazing
+| Pick | Why | Level | Buy |
+|---|---|---|---|
+| Vallejo Glaze Medium | The single most useful OSL purchase | Beginner | [Check price →](/go/vallejo-glaze-medium/) |
+| Synthetic round #2 (e.g. Princeton Velvetouch) | Holds a thin, even glaze | All | [Check price →](/go/taklon-2/) |
+| Winsor & Newton Series 7 Kolinsky #0 | Reflected streaks and the hot core | All | [Check price →](/go/ws7-0/) |
+| Vallejo Matt Varnish | Kills accidental shine before you glaze | All | [Check price →](/go/vallejo-matt-varnish/) |
 
-*(Affiliate links — support the workbench by buying through them.)*
+*(Affiliate links — buying through them supports the workbench. Prices and stock change — each link opens the current listing.)*
 
 ## FAQ
 
