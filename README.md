@@ -9,14 +9,14 @@ status pr. post og fejl: [`articles/00-status.md`](articles/00-status.md) · dep
 
 ## Struktur
 - `articles/` — de 5 begynderartikler (md) + `00-status.md` (projektstatus). Live er nyere end disse md-filer.
-- `articles-v2/` → `html-v2/` → `payloads-final/` — Workbench + Lore (12 artikler): md er kilden, `payloads-final/json/` er det, der deployes.
+- `articles-v2/` → `html-v2/` → `payloads-final/` — Workbench + Lore (12 artikler): md er kilden. Live afviger i småting, så ændringer går live kirurgisk (find/replace pr. afsnit), ikke ved at skubbe hele payloads.
 - `deploy/RUNBOOK.md` — **deploy-plan v2** for det live site (drift-tjek, backup, redirects, canary, rollback).
   v1 = `RUNBOOK-v1-grimdark.md`; `deploy.sh` er v1 og nægter at køre uden `LEGACY_V1=1`.
 - `docs/ROADMAP.md` — mål, færdigt, næste (med hvem), senere og fravalg.
 - `deploy/release1-gear-sections.json` — release 1: find/replace pr. Workbench-post.
 - `docs/affiliate-links.md` + `.csv` — de 34 `/go/`-affiliate-links i Workbench-guiderne og opsætningen af redirects.
 - `docs/warpstorm-grimdark-plan.md`, `docs/kickoff-drejebog.md` — oprindelige planer fra oktober (historik; afvigelser står øverst i planen).
-- `images/` — 12 begynderbilleder (live hotlinket fra en ekstern vært; skal uploades).
+- `images/` — 12 begynderbilleder (originaler; uploadet til mediebiblioteket 16/11, id 163-174).
 - `drive-docs/` — kildetekster og designkoncepter fra Drive-mappen "Warpstorm".
 - `adsense/` — lille AdSense-plugin (ikke i brug).
 - `meta-updates/`, `page-updates/`, `payloads*/` — ældre REST-payloads. `warpstorm/` er et spejl af hele repoet (holdes ens; skal ryddes op).
