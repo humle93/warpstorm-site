@@ -24,7 +24,7 @@ Sider: Forside (forside) · Start Here · Workbench Hub · Lore Hub · About · 
 Sider tilføjet 16/11: Terms & Conditions (id 161). Forsiden hedder nu "Home".
 
 ## Repo vs. live
-- **Workbench (8):** repoet er foran med gear-tabeller med `/go/`-affiliate-links (branch `ccr-249cc9fd-ntazji`), som endnu ikke er live. Før ændringen var repo og live ens.
+- **Workbench (8):** repoet er foran med gear-tabeller med `/go/`-affiliate-links (på `main` siden 16/11), som endnu ikke er live. Før ændringen var repo og live ens.
 - **Begynder (5):** live er **nyere** end repoet (og efter 16/11 har de lokale billeder og rettede knapper): `<!-- wp:html -->`-blok, billeder, udvidet disclosure (ikke tilknyttet Games Workshop) og en trademark-linje i bunden. Live er sandheden. Træk det ned før næste ændring (RUNBOOK v2, "Efter release").
 - **Lore (4):** ikke sammenlignet byte for byte.
 
@@ -49,7 +49,7 @@ Sider tilføjet 16/11: Terms & Conditions (id 161). Forsiden hedder nu "Home".
 - `adsense/warpstorm-adsense` (plugin) og Ads.txt Manager findes, men der er ingen aktiv AdSense-konto i repoet.
 - Affiliate-konti: **ingen endnu.** Uden dem virker `/go/`-linksene ikke (se `docs/affiliate-links.md`).
 
-## Næste skridt (i rækkefølge)
+## Næste skridt (i rækkefølge — fuld version i [`docs/ROADMAP.md`](../docs/ROADMAP.md))
 1. Henning: Amazon Associates + Wayland Games, udfyld `docs/affiliate-links.csv`.
 2. Release 1 efter `deploy/RUNBOOK.md` (kirurgisk, `deploy/release1-gear-sections.json`): 34 redirects → 8 Workbench-posts → verifikation.
 3. Henning: kontakt-e-mail eller formular, cookie-samtykke, privacy-slug, Novamira til/fra, menu.

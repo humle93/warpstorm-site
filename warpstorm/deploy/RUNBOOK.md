@@ -33,7 +33,7 @@ danske kategorier, og den kender kun de 5 første artikler. Den ligger kun som h
 
 ## Release 1: affiliate-gear-tabeller (8 Workbench-guides)
 
-Branch `ccr-249cc9fd-ntazji` på GitHub. 38 `/go/`-links fordelt på 34 produkter.
+Flettet til `main` 16/11 (`0201569`). 38 `/go/`-links fordelt på 34 produkter.
 Release-fil: [`release1-gear-sections.json`](release1-gear-sections.json) — 8 poster med `post_id`, `find` (den gamle
 tabel + note under `<h2 id="gear">`) og `replace` (den nye tabel). Dry-run 16/11: id 44 og 51 matchede præcis 1 gang.
 
@@ -52,7 +52,7 @@ tabel + note under `<h2 id="gear">`) og `replace` (den nye tabel). Dry-run 16/11
 - [ ] Konto hos Amazon Associates og Wayland Games' affiliate-program (Element Games via Awin: valgfri).
 - [ ] `docs/affiliate-links.csv`: kolonnen `affiliate_url` udfyldt for alle 34 rækker
       (Amazon-URL med rigtigt tag i stedet for `YOUR-AMAZON-TAG`, eller Wayland-link fra dashboardet).
-- [ ] Branchen flettet til `main` (så repoet er sandheden for det, der går live).
+- [x] Flettet til `main` 16/11.
 
 **Stop her, hvis CSV'en ikke er udfyldt.** Uden destinationer gør tabellerne siden dårligere.
 
