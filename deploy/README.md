@@ -1,10 +1,21 @@
+# Warpstorm deploy
+
+**Aktuel plan: [`RUNBOOK.md`](RUNBOOK.md) (v2, 16/11 2026)** — opdatering af det live site med backup, drift-tjek,
+redirects før indhold, én canary og rollback. Første release: affiliate-gear-tabellerne i de 8 Workbench-guides.
+
+> ⚠️ Alt nedenfor er **v1 (Grimdark-pakken, oktober 2026)**, som byggede sitet. Kør ikke `deploy.sh` igen:
+> den sætter sproget til `da_DK` og opretter danske kategorier på et engelsk site. Runbooken ligger i
+> [`RUNBOOK-v1-grimdark.md`](RUNBOOK-v1-grimdark.md).
+
+---
+
 # Grimdark Pakke — warpstorm.online
 
 Én-kommando deploy-pakke til Warpstorm (Warhammer 40K-fansitet). Alt er forberedt; intet rører sitet før app-passwordet er landet.
 
 ## Indhold
 - `deploy.sh` — POSIX-sh-script der kører hele sekvensen (trin 0-8 i RUNBOOK.md), idempotent
-- `RUNBOOK.md` — trin-for-trin med exact REST-kald + fallbacks (køres af Juno)
+- `RUNBOOK-v1-grimdark.md` — trin-for-trin med exact REST-kald + fallbacks (køres af Juno)
 - `payloads/articles/` — 5 færdige artikler som WP-REST-payloads (draft, HTML, interlinks, excerpts)
 - `payloads/pages/` — 6 side-payloads (forside, start-her, om, kontakt, privatlivspolitik, affiliate-disclosure)
 - `css/grimdark-v1.1.css` — Grimdark CSS v1 + base/grim-komponenter (sort #0A0A0C, rød #8C1D2C, guld #B8963E)

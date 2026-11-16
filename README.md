@@ -6,6 +6,7 @@ Versionstyring for **Warpstorm** (Warhammer 40K-projektet, grimdarkbuilds.com / 
 - `articles/` — klargjorte artikler (skabelon: H1 → kort svar → disclosure → tabel → guide → billeder → FAQ → interne links → CTA).
 - `docs/warpstorm-grimdark-plan.md` — komplet WordPress-pakke (TT5, plugins, kategorier, CSS-vars, 34 artikler, monetisering).
 - `docs/kickoff-drejebog.md` — drejebog fase 0-2.
+- `deploy/RUNBOOK.md` — deploy-plan v2 for det live site (v1 = `RUNBOOK-v1-grimdark.md`, kør ikke `deploy.sh`).
 - `docs/affiliate-links.md` + `.csv` — `/go/`-affiliate-links i Workbench-guiderne (34 produkter) og hvordan redirects sættes op.
 - `docs/` ellers: statusnoter pr. artikel.
 
