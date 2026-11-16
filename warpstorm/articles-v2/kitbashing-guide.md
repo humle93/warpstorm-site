@@ -2,7 +2,7 @@
 
 **Short answer:** Kitbashing means combining parts from different kits to build a model nobody can buy. Start with a donor model, harvest "bitz" from a spares box, cut and pin the joins, fill the gaps, and — most importantly — keep the silhouette balanced: one dominant element, two supporting elements, everything else subordinate.
 
-*URL: /workbench/kitbashing-guide/ · Primary keyword: kitbashing miniatures guide*
+*URL: /kitbashing-guide/ · Primary keyword: kitbashing miniatures guide*
 
 > *Disclosure: Some links on this page are affiliate links — if you buy through them, we may earn a small commission at no extra cost to you.*
 
@@ -71,9 +71,9 @@ Build one conversion from one donor kit with only weapon swaps first. Scale awar
 
 ## Continue on the Workbench
 
-- 👉 **[Best Hobby Tools for Miniature Painting](/workbench/best-hobby-tools/)** — the tooling behind clean conversions
-- 👉 **[3D Printed Terrain for Tabletop Games](/workbench/3d-printed-terrain/)** — print your own bitz
-- 👉 **[Easy Weathering Techniques](/workbench/easy-weathering-techniques/)** — unify kitbashed parts with grime
-- 👉 **[The Fractured Factions of the Warpstorm](/lore/chaotic-factions/)** — lore to inspire your next conversion
+- 👉 **[Best Hobby Tools for Miniature Painting](/best-hobby-tools/)** — the tooling behind clean conversions
+- 👉 **[3D Printed Terrain for Tabletop Games](/3d-printed-terrain/)** — print your own bitz
+- 👉 **[Easy Weathering Techniques](/easy-weathering-techniques/)** — unify kitbashed parts with grime
+- 👉 **[The Fractured Factions of the Warpstorm](/chaotic-factions/)** — lore to inspire your next conversion
 
-> **Your spares box is an unopened army.** Build one conversion this month — even a single weapon swap counts. **[Get the kitbashing tool set →](/shop/tools/)** *(affiliate links)*
+> **Your spares box is an unopened army.** Build one conversion this month — even a single weapon swap counts. **[Get the kitbashing tool set →](#gear)** *(affiliate links)*

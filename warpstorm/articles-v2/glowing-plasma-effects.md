@@ -2,7 +2,7 @@
 
 **Short answer:** Block in the glow with a dark base, add a midtone halo around the light source, then build a gradient of three brighter tones toward the centre and finish with pinpoint white highlights. Add reflected glow on nearby surfaces — that final step is what makes plasma effects look real instead of painted-on.
 
-*URL: /workbench/glowing-plasma-effects/ · Primary keyword: glowing plasma effects miniatures*
+*URL: /glowing-plasma-effects/ · Primary keyword: glowing plasma effects miniatures*
 
 > *Disclosure: Some links on this page are affiliate links — if you buy through them, we may earn a small commission at no extra cost to you.*
 
@@ -73,9 +73,9 @@ Mix one batch of each shade on a wet palette and paint all units in one session.
 
 ## Continue on the Workbench
 
-- 👉 **[Easy Weathering Techniques for Miniatures](/workbench/easy-weathering-techniques/)** — the perfect partner to glow effects
-- 👉 **[Object Source Lighting: Simple OSL Guide](/workbench/object-source-lighting/)** — the advanced version of this technique
-- 👉 **[Best Hobby Tools for Miniature Painting](/workbench/best-hobby-tools/)** — brushes and lamps that make this easier
-- 👉 **[What Is the Warpstorm?](/lore/what-is-the-warpstorm/)** — the lore behind the storm-green glow
+- 👉 **[Easy Weathering Techniques for Miniatures](/easy-weathering-techniques/)** — the perfect partner to glow effects
+- 👉 **[Object Source Lighting: Simple OSL Guide](/object-source-lighting/)** — the advanced version of this technique
+- 👉 **[Best Hobby Tools for Miniature Painting](/best-hobby-tools/)** — brushes and lamps that make this easier
+- 👉 **[What Is the Warpstorm?](/what-is-the-warpstorm/)** — the lore behind the storm-green glow
 
-> **Paint one test model before the squad.** Ten minutes on a single miniature saves three hours of repainting. **[Get the glow palette →](/shop/paints/)** *(affiliate links)*
+> **Paint one test model before the squad.** Ten minutes on a single miniature saves three hours of repainting. **[Get the glow palette →](#gear)** *(affiliate links)*

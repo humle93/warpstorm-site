@@ -1,4 +1,4 @@
-# Warpstorm.online — status (16. november 2026)
+# Warpstorm.online — status (16. november 2026, opdateret efter rettelser samme dag)
 
 Målt live via Warp-MCP (Royal MCP) 16/11. Tidligere version: 25/10 (git-historik).
 
@@ -11,7 +11,7 @@ Målt live via Warp-MCP (Royal MCP) 16/11. Tidligere version: 25/10 (git-histori
 | Tema | **Extendable 2.2.0** (ikke TT5 som i planen fra oktober) |
 | Plugins | 21 aktive: Rank Math, Site Kit, Meow Analytics, Ads.txt Manager, W3 Total Cache, Imagify, Really Simple Security, AI Engine + Meow-pakken, Royal MCP, Novamira m.fl. |
 | Kategorier | Hobby 8 · Guides 3 · Armies 3 · Lore 3 · News 0 · Strategy 0 (ingen "Workbench"-kategori) |
-| Medier | **0 filer i mediebiblioteket** |
+| Medier | 12 billeder (uploadet 16/11; før: 0) |
 
 ## Indhold live (17 posts, alle publiceret 25/10, sidst rettet 26/10)
 | Gruppe | Posts (id) | Ord i repoet |
@@ -21,22 +21,28 @@ Målt live via Warp-MCP (Royal MCP) 16/11. Tidligere version: 25/10 (git-histori
 | Lore (4, eget univers) | factions (47) · lost expeditions (50) · warp travel (53) · what is the Warpstorm (54) | 470-670 |
 
 Sider: Forside (forside) · Start Here · Workbench Hub · Lore Hub · About · Contact · Privacy Policy · Affiliate Disclosure.
-Mangler live i forhold til `payloads-final/`: **Terms & Conditions**.
+Sider tilføjet 16/11: Terms & Conditions (id 161). Forsiden hedder nu "Home".
 
 ## Repo vs. live
 - **Workbench (8):** repoet er foran med gear-tabeller med `/go/`-affiliate-links (branch `ccr-249cc9fd-ntazji`), som endnu ikke er live. Før ændringen var repo og live ens.
-- **Begynder (5):** live er **nyere** end repoet: `<!-- wp:html -->`-blok, billeder, udvidet disclosure (ikke tilknyttet Games Workshop) og en trademark-linje i bunden. Live er sandheden. Træk det ned før næste ændring (RUNBOOK v2, "Efter release").
+- **Begynder (5):** live er **nyere** end repoet (og efter 16/11 har de lokale billeder og rettede knapper): `<!-- wp:html -->`-blok, billeder, udvidet disclosure (ikke tilknyttet Games Workshop) og en trademark-linje i bunden. Live er sandheden. Træk det ned før næste ændring (RUNBOOK v2, "Efter release").
 - **Lore (4):** ikke sammenlignet byte for byte.
 
-## Fejl fundet live 16/11
-1. **11 "Shop →"-knapper giver 404.** `/shop/airbrush|paints|tools|weathering|printers|starter-sets|space-marines|necrons/` findes ikke. Siden svarer 200 med "Page Not Found" (blød 404, `noindex`). Rettes ved at pege knapperne på `/go/`-links eller artiklens gear-tabel.
-2. **Billederne ligger uden for sitet.** De 12 begynderbilleder hotlinkes fra `steamgears.juno.page/warpstorm-cdn/`, og mediebiblioteket er tomt. Hvis den vært forsvinder, mister artiklerne alle billeder. Filerne ligger i `images/` og bør uploades. Workbench- og Lore-posts har ingen billeder og ingen udvalgte billeder.
-3. **52 interne links bruger `/workbench/<slug>/` og `/lore/<slug>/`**, men posts ligger på `/<slug>/`. De virker kun, fordi WordPress gætter og sender 301. Bør rettes til de rigtige adresser.
-4. **Forsiden hedder "Forside"** i titel og menu på et engelsk site ("Forside - Warpstorm" i Google). Omdøb til "Home".
-5. **To privatlivssider:** id 3 (kladde, WordPress' standard) og id 15 på `/privacy-policy-2/` (`/privacy-policy/` sender 301 dertil). Slet kladden og giv id 15 slug `privacy-policy`.
-6. **Linktekst passer ikke:** "How to Paint Your First Miniature" (Space Marines- og Necrons-guiden) peger på weathering-guiden; artiklen findes ikke.
-7. **Menuen** er WordPress' automatiske sideliste (8 sider alfabetisk, ingen kategorier).
-8. **Novamira** (fuld PHP-adgang, "for development and staging only") er aktiv på produktion.
+## Fejl fundet live 16/11 — og hvad der er gjort
+| # | Fejl | Status |
+|---|---|---|
+| 1 | 11 "Shop →"-knapper gav blød 404 (`/shop/...`) | ✅ Rettet: Workbench → `#gear`, starter set → `#compare`, Marines/Necrons → starter set-guiden |
+| 2 | Begynderbilleder hotlinket fra `steamgears.juno.page`, tomt mediebibliotek | ✅ Rettet: 12 billeder uploadet (id 163-174), URL'er skiftet, udvalgt billede på id 19-23 |
+| 3 | `/workbench/`- og `/lore/`-stier i interne links | ✅ Var allerede rettet live (stikprøve af 5 posts; kun repo-kopierne havde dem). Repoet er nu rettet |
+| 4 | Forsiden hed "Forside" | ✅ Omdøbt til "Home" |
+| 5 | To privatlivssider | ◐ Kladden (id 3) i papirkurven. Den aktive side ligger stadig på `/privacy-policy-2/` (`/privacy-policy/` sender 301); slug skiftes i wp-admin |
+| 6 | "How to Paint Your First Miniature" pegede på weathering-guiden | ✅ Linket peger nu på Best Hobby Tools med den rigtige titel |
+| 7 | Menuen er WordPress' automatiske sideliste | ⏳ Ikke rørt (temaets navigation skal sættes op i Site Editor) |
+| 8 | Novamira aktiv på produktion | ⏳ Ikke rørt (kan være i brug af en anden integration) — Henning beslutter |
+| 9 | Kontaktsiden viste `PLACEHOLDER-EMAIL@warpstorm.online` | ◐ Pladsholderen fjernet; ingen kontaktadresse/formular endnu |
+| 10 | Privatlivspolitikken nævnte ikke Google Analytics, værten eller affiliate-cookies | ✅ Skrevet om (id 15) |
+| 11 | Terms & Conditions manglede | ✅ Oprettet (id 161, `/terms-conditions/`) |
+| 12 | Intet cookie-samtykke, selvom Google Analytics kører (EU/Danmark) | ⏳ Kræver et samtykke-plugin + valg — Henning beslutter |
 
 ## Indtægt
 - Plan (16/11): affiliate på hobby-udstyr først (Wayland 5 %, Amazon ~3-4 %), dernæst egne digitale malerguider til Warpstorm-fraktionerne. Annoncer sidst eller slet ikke: Games Workshops IP-politik nævner annonceindtægt eksplicit som kommerciel brug.
@@ -45,11 +51,11 @@ Mangler live i forhold til `payloads-final/`: **Terms & Conditions**.
 
 ## Næste skridt (i rækkefølge)
 1. Henning: Amazon Associates + Wayland Games, udfyld `docs/affiliate-links.csv`.
-2. Release 1 efter `deploy/RUNBOOK.md`: 34 redirects → 8 Workbench-posts → verifikation.
-3. Ret fejl 1, 3-6 ovenfor (små indholdsrettelser, samme release-metode).
-4. Upload de 12 billeder til mediebiblioteket og skift URL'erne; lav udvalgte billeder til alle 17 posts.
-5. Træk begynder-posts ned i repoet og giv dem gear-tabeller.
-6. De resterende 17 artikler fra planen (forslag nedenfor).
+2. Release 1 efter `deploy/RUNBOOK.md` (kirurgisk, `deploy/release1-gear-sections.json`): 34 redirects → 8 Workbench-posts → verifikation.
+3. Henning: kontakt-e-mail eller formular, cookie-samtykke, privacy-slug, Novamira til/fra, menu.
+4. Udvalgte billeder til de 12 Workbench- og Lore-posts (der findes ingen billeder til dem endnu).
+5. Begynder-posts: gear-tabeller (starter-udstyr: maling, pensler, værktøj — ingen GW-produktnavne i tabellerne).
+6. De resterende 17 artikler (nedenfor). Bemærk: GW's IP-politik siger, at fan-indhold skal være menneskeskabt (ikke generativ AI).
 
 ## Resterende artikler (forslag fra 25/10, ikke bekræftet)
 - Warhammer: How to Paint Your First Miniature · Your First 500-Point Game · 40K Glossary for Beginners · Best Starter Paints · Combat Patrol explained

@@ -2,7 +2,7 @@
 
 **Short answer:** OSL means painting light as if it comes from an object on the model: pick the light source, then tint every surface facing it with the light colour — strongest at the nearest point, fading with distance. Two glazes and one highlight colour are enough for a convincing effect. Reflection, not brightness, is the secret.
 
-*URL: /workbench/object-source-lighting/ · Primary keyword: object source lighting miniatures*
+*URL: /object-source-lighting/ · Primary keyword: object source lighting miniatures*
 
 > *Disclosure: Some links on this page are affiliate links — if you buy through them, we may earn a small commission at no extra cost to you.*
 
@@ -44,7 +44,7 @@ Paint the emitting object at maximum brightness: base colour → bright tone →
 
 | Effect | Best tool | Difficulty |
 |---|---|---|
-| Small glow (eyes, coils) | Direct painting (see [glow guide](/workbench/glowing-plasma-effects/)) | Beginner |
+| Small glow (eyes, coils) | Direct painting (see [glow guide](/glowing-plasma-effects/)) | Beginner |
 | Medium OSL (torch, weapon) | Glazes on facing surfaces | Intermediate |
 | Large OSL (portal, engine) | Airbrush or extensive glaze work | Advanced |
 
@@ -75,9 +75,9 @@ Weather first, glow second. OSL light passes over grime naturally — but paint 
 
 ## Continue on the Workbench
 
-- 👉 **[How to Paint Glowing Plasma Effects](/workbench/glowing-plasma-effects/)** — the beginner version of this technique
-- 👉 **[Easy Weathering Techniques](/workbench/easy-weathering-techniques/)** — how grime and glow interact
-- 👉 **[Airbrush for Miniatures: Beginner Setup](/workbench/airbrush-for-beginners/)** — when you're ready to speed up
-- 👉 **[Warp Travel Explained](/lore/warp-travel-explained/)** — the lore behind violet portal light
+- 👉 **[How to Paint Glowing Plasma Effects](/glowing-plasma-effects/)** — the beginner version of this technique
+- 👉 **[Easy Weathering Techniques](/easy-weathering-techniques/)** — how grime and glow interact
+- 👉 **[Airbrush for Miniatures: Beginner Setup](/airbrush-for-beginners/)** — when you're ready to speed up
+- 👉 **[Warp Travel Explained](/warp-travel-explained/)** — the lore behind violet portal light
 
-> **OSL is the difference between a painted model and a scene.** One light source, two glazes, full commitment. **[Shop glaze mediums →](/shop/paints/)** *(affiliate links)*
+> **OSL is the difference between a painted model and a scene.** One light source, two glazes, full commitment. **[Shop glaze mediums →](#gear)** *(affiliate links)*

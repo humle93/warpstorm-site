@@ -2,7 +2,7 @@
 
 **Short answer:** The Warpstorm is a cosmic rift at the edge of known space where physics breaks down — a violet-and-turquoise nebula that swallows entire fleets and returns them decades later, rusted and crewless. Three factions thrive on its edges: the Industrial Zealots, the Void Nomads and the Corrupt Cults. This is our original dark sci-fi universe.
 
-*URL: /lore/what-is-the-warpstorm/ · Primary keyword: warpstorm lore*
+*URL: /what-is-the-warpstorm/ · Primary keyword: warpstorm lore*
 
 ## The Anomaly at the Edge of the Map
 
@@ -33,14 +33,14 @@ Each faction shapes the storm — and is shaped by it. None controls it. Nobody 
 
 ## Why the Storm Matters to You
 
-The Warpstorm is our original dark sci-fi universe: the setting behind every guide, story and design on this site. Its aesthetic — oxidized metal, teal glow, violet portals, salt-corroded hulls — is the same aesthetic our [workbench guides](/workbench/best-hobby-tools/) teach you to paint and our merch wears proudly.
+The Warpstorm is our original dark sci-fi universe: the setting behind every guide, story and design on this site. Its aesthetic — oxidized metal, teal glow, violet portals, salt-corroded hulls — is the same aesthetic our [workbench guides](/best-hobby-tools/) teach you to paint and our merch wears proudly.
 
 ## Explore the Storm
 
-- 👉 **[Warp Travel Explained: Routes, Storms and Lost Ships](/lore/warp-travel-explained/)** — how anyone crosses the void at all
-- 👉 **[The Fractured Factions of the Warpstorm](/lore/chaotic-factions/)** — the three powers in depth
-- 👉 **[7 Lost Expeditions Into the Warpstorm](/lore/lost-expedition-stories/)** — short stories from the edge
-- 👉 **[How to Paint Glowing Plasma Effects](/workbench/glowing-plasma-effects/)** — paint the storm's signature glow
+- 👉 **[Warp Travel Explained: Routes, Storms and Lost Ships](/warp-travel-explained/)** — how anyone crosses the void at all
+- 👉 **[The Fractured Factions of the Warpstorm](/chaotic-factions/)** — the three powers in depth
+- 👉 **[7 Lost Expeditions Into the Warpstorm](/lost-expedition-stories/)** — short stories from the edge
+- 👉 **[How to Paint Glowing Plasma Effects](/glowing-plasma-effects/)** — paint the storm's signature glow
 
 > *The Warpstorm is an original fictional universe. Warpstorm is not affiliated with any other sci-fi franchise or games company.*
 

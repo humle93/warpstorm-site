@@ -2,7 +2,7 @@
 
 **Short answer:** Three techniques cover 90% of beginner weathering: sponge chipping for worn edges, streaking grime for vertical runs, and pigment powders for dust and mud. All three need no special skills — just dark paints, a torn foam pad and patience. Start with one technique per model, not three at once.
 
-*URL: /workbench/easy-weathering-techniques/ · Primary keyword: easy weathering techniques miniatures*
+*URL: /easy-weathering-techniques/ · Primary keyword: easy weathering techniques miniatures*
 
 > *Disclosure: Some links on this page are affiliate links — if you buy through them, we may earn a small commission at no extra cost to you.*
 
@@ -67,9 +67,9 @@ Unfixed pigments do. Use pigment fixer, or seal the model with matte varnish aft
 
 ## Continue on the Workbench
 
-- 👉 **[How to Paint Rust, Chipping and Battle Damage](/workbench/rust-and-battle-damage/)** — the deeper version of Step 1
-- 👉 **[How to Paint Glowing Plasma Effects](/workbench/glowing-plasma-effects/)** — contrast: clean glow on grim armour
-- 👉 **[Kitbashing Guide: Unique Sci-Fi Miniatures](/workbench/kitbashing-guide/)**
-- 👉 **[The Corrupt Cults: Faction Lore](/lore/chaotic-factions/)** — the rusted aesthetic, explained
+- 👉 **[How to Paint Rust, Chipping and Battle Damage](/rust-and-battle-damage/)** — the deeper version of Step 1
+- 👉 **[How to Paint Glowing Plasma Effects](/glowing-plasma-effects/)** — contrast: clean glow on grim armour
+- 👉 **[Kitbashing Guide: Unique Sci-Fi Miniatures](/kitbashing-guide/)**
+- 👉 **[The Corrupt Cults: Faction Lore](/chaotic-factions/)** — the rusted aesthetic, explained
 
-> **Weather one model completely before touching the squad.** Your first weathered miniature teaches more than ten tutorials. **[Get a pigment starter set →](/shop/weathering/)** *(affiliate links)*
+> **Weather one model completely before touching the squad.** Your first weathered miniature teaches more than ten tutorials. **[Get a pigment starter set →](#gear)** *(affiliate links)*

@@ -26,13 +26,16 @@ danske kategorier, og den kender kun de 5 første artikler. Den ligger kun som h
 3. **Backup før, revision efter.** WordPress' revisioner er rollback-planen, en JSON-backup er reserven.
 4. **Redirects før indhold.** Et `/go/`-link uden redirect er en 404 på et live site.
 5. **Én canary først.** Én artikel hele vejen igennem, så resten.
-6. **Kilden er `payloads-final/json/post-<slug>.json`** (feltet `content`). `articles-v2/*.md` er
-   den læsbare kilde; de øvrige kopier (`payloads-ready/`, `deploy/lib/payloads-json/`, `warpstorm/`)
-   holdes ens, men deployes ikke fra.
+6. **Kirurgisk, ikke hele indholdet.** Live-indholdet afviger i småting fra alle repo-kopier (`<!-- wp:html -->`-blok,
+   URL-linjer, rettelser lavet direkte i WordPress). Derfor skiftes kun det ændrede afsnit med `wp_replace_in_post`
+   og `expected_count: 1`. Matcher teksten ikke præcis én gang, skrives intet: det er drift-tjekket.
+   Release-filen (fx `release1-gear-sections.json`) har `find`/`replace` pr. post.
 
 ## Release 1: affiliate-gear-tabeller (8 Workbench-guides)
 
 Branch `ccr-249cc9fd-ntazji` på GitHub. 38 `/go/`-links fordelt på 34 produkter.
+Release-fil: [`release1-gear-sections.json`](release1-gear-sections.json) — 8 poster med `post_id`, `find` (den gamle
+tabel + note under `<h2 id="gear">`) og `replace` (den nye tabel). Dry-run 16/11: id 44 og 51 matchede præcis 1 gang.
 
 | Post | id | `/go/`-links |
 |---|---|---|
@@ -56,8 +59,8 @@ Branch `ccr-249cc9fd-ntazji` på GitHub. 38 `/go/`-links fordelt på 34 produkte
 ### Trin 1 — Preflight (Claude, kun læsning)
 - `wp_get_site_info` → `warpstorm.online`, `en_US`.
 - `wp_get_posts` → de 8 id'er ovenfor findes og er `publish`.
-- Drift-tjek pr. post: live `content` = `git show <commit før release>:payloads-final/json/post-<slug>.json`.
-  Ens (bortset fra whitespace) → fortsæt. Forskel → stop og vis forskellen.
+- Drift-tjek pr. post: `wp_replace_in_post` med `dry_run: true` og `find` fra release-filen → `occurrences: 1`.
+  0 eller flere → stop og hent posten for at se, hvad der er ændret.
 
 ### Trin 2 — Backup
 - Gem hver posts live-indhold i `backups/live-2026MMDD/<slug>.json` (titel, slug, content, modified).
@@ -71,8 +74,8 @@ Branch `ccr-249cc9fd-ntazji` på GitHub. 38 `/go/`-links fordelt på 34 produkte
 - Test 3 tilfældige: `curl -sI https://warpstorm.online/go/<produkt>/` → `307` + `Location` med tag.
 
 ### Trin 4 — Canary: best-hobby-tools (id 46)
-- `wp_update_post` id 46 med `content` fra `payloads-final/json/post-best-hobby-tools.json`. Intet andet felt
-  ændres (titel, slug, kategori og Rank Math-meta bliver liggende).
+- `wp_replace_in_post` id 46 med `find`/`replace` fra release-filen og `expected_count: 1`. Kun afsnittet under
+  `<h2 id="gear">` ændres; titel, slug, kategori, billeder og Rank Math-meta bliver liggende.
 - Purge cachen for URL'en (W3 Total Cache).
 - Tjek den renderede side (`wp_verify_rendered_page` eller `curl`):
   - tabellen har 4 kolonner og 6 rækker,
@@ -88,7 +91,8 @@ Branch `ccr-249cc9fd-ntazji` på GitHub. 38 `/go/`-links fordelt på 34 produkte
 - Rank Math: intet at gøre (slugs og meta er uændrede). Valgfrit: send de 8 URL'er til IndexNow.
 
 ### Trin 7 — Verifikation
-- Pr. post: live `content` = repoets payload (byte-sammenligning), og antal `/go/` som i tabellen ovenfor (i alt 38).
+- Pr. post: `/go/` findes det antal gange, tabellen ovenfor siger (dry-run med `find: "/go/"`), i alt 38.
+  Knappen nederst (`href="#gear"`) hopper stadig til tabellen.
 - Mobil: én side åbnet ved 375 px bredde. Tabellen må gerne scrolle vandret, men siden må ikke.
 - Redirection-loggen viser de test-klik, der er lavet.
 - Skriv resultatet i `articles/00-status.md` (dato, hvad gik live, hvad blev ikke verificeret).
@@ -104,6 +108,19 @@ Branch `ccr-249cc9fd-ntazji` på GitHub. 38 `/go/`-links fordelt på 34 produkte
   Produkter uden klik efter 8 uger skiftes ud eller flyttes højere op i artiklen.
 - Begynder-posts (id 19-23): træk live-indholdet ned i repoet (`articles/` + `payloads-final/`),
   før de får gear-tabeller. Ellers overskriver næste release nyere tekst.
+
+## Udført direkte på live 16/11 (uden for release 1)
+Alle ændringer lavet med `wp_replace_in_post` (`expected_count`) eller side-opdateringer; WordPress har en revision af hver.
+- 11 døde "Shop →"-knapper: Workbench (8) hopper nu til gear-tabellen (`<h2 id="gear">` + `href="#gear"`); starter set → `#compare`;
+  Space Marines/Necrons → starter set-guiden. "(affiliate links)" fjernet fra de 3 begynder-knapper.
+- "How to Paint Your First Miniature"-linket (id 22, 23) → "Best Hobby Tools for Miniature Painting" (`/best-hobby-tools/`).
+- 12 billeder uploadet til mediebiblioteket (id 163-174, med alt-tekst); begynder-posts peger nu på `warpstorm.online/wp-content/uploads/2026/11/`
+  i stedet for `steamgears.juno.page`. Udvalgt billede sat på id 19-23, og det første billede i teksten fjernet (temaet viser det udvalgte øverst).
+- Forsiden omdøbt "Forside" → "Home". WordPress' standard-privatlivskladde (id 3) i papirkurven.
+- Ny side **Terms & Conditions** (id 161, `/terms-conditions/`).
+- Kontaktsiden: synlig pladsholder-e-mail fjernet (ingen rigtig adresse sat — afventer Henning).
+- Privatlivspolitikken (id 15) skrevet om: Hostinger, Google Analytics 4 (Site Kit), kommentarer, affiliate-cookies, GDPR-rettigheder, Datatilsynet.
+- W3TC-cache tømt; forside, begynder-post, hobby tools, starter set, terms og et billede tjekket renderet (200, ankre findes).
 
 ## Driftsnoter
 - **Novamira** er aktiv på produktion, men beskriver sig selv som "for development and staging only"

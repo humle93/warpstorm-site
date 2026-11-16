@@ -2,7 +2,7 @@
 
 **Short answer:** Seven fleets entered the Warpstorm and never returned as themselves: a colonisation convoy that aged backwards, a salvage armada found rusted shut, a pilgrim fleet whose only transmission now loops forever at the storm's edge. These are short, atmospheric stories from the dark side of our original sci-fi universe.
 
-*URL: /lore/lost-expedition-stories/ · Primary keyword: dark sci-fi short stories*
+*URL: /lost-expedition-stories/ · Primary keyword: dark sci-fi short stories*
 
 > *Warpstorm is an original fictional universe. All expeditions below are fiction. Not affiliated with any other sci-fi franchise.*
 
@@ -50,9 +50,9 @@ The only expedition to return *changed but alive*. The crew stepped out of the a
 
 ## Continue Into the Storm
 
-- 👉 **[What Is the Warpstorm?](/lore/what-is-the-warpstorm/)** — begin the universe here
-- 👉 **[The Fractured Factions](/lore/chaotic-factions/)** — who rides the storm's edge
-- 👉 **[Warp Travel Explained](/lore/warp-travel-explained/)** — the routes that failed them
-- 👉 **[How to Paint Rust, Chipping and Battle Damage](/workbench/rust-and-battle-damage/)** — build the *Iron Tithe* look yourself
+- 👉 **[What Is the Warpstorm?](/what-is-the-warpstorm/)** — begin the universe here
+- 👉 **[The Fractured Factions](/chaotic-factions/)** — who rides the storm's edge
+- 👉 **[Warp Travel Explained](/warp-travel-explained/)** — the routes that failed them
+- 👉 **[How to Paint Rust, Chipping and Battle Damage](/rust-and-battle-damage/)** — build the *Iron Tithe* look yourself
 
 > **Seven expeditions. Seven lessons. The storm counts everything.** Explore the factions next.

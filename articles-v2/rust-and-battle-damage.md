@@ -2,7 +2,7 @@
 
 **Short answer:** Paint rust in three layers — dark brown base in recesses, orange-brown texture in the middle, bright metallic chips on the sharpest edges — and create physical damage by scoring the model with a hobby knife before painting. Real chips show bare metal, not just brown paint. That metallic flash is what sells the effect.
 
-*URL: /workbench/rust-and-battle-damage/ · Primary keyword: miniature rust weathering*
+*URL: /rust-and-battle-damage/ · Primary keyword: miniature rust weathering*
 
 > *Disclosure: Some links on this page are affiliate links — if you buy through them, we may earn a small commission at no extra cost to you.*
 
@@ -63,9 +63,9 @@ Vehicles: 5–10 spots. Infantry: 2–3 subtle chips. The model must remain read
 
 ## Continue on the Workbench
 
-- 👉 **[Easy Weathering Techniques for Miniatures](/workbench/easy-weathering-techniques/)** — sponge chipping, streaks and dust
-- 👉 **[Best Hobby Tools for Miniature Painting](/workbench/best-hobby-tools/)** — the knife and files this guide assumes
-- 👉 **[The Industrial Zealots: Faction Lore](/lore/chaotic-factions/)** — the machine-cult aesthetic behind the rust
-- 👉 **[Warp Travel Explained](/lore/warp-travel-explained/)** — why lost ships come back rusted
+- 👉 **[Easy Weathering Techniques for Miniatures](/easy-weathering-techniques/)** — sponge chipping, streaks and dust
+- 👉 **[Best Hobby Tools for Miniature Painting](/best-hobby-tools/)** — the knife and files this guide assumes
+- 👉 **[The Industrial Zealots: Faction Lore](/chaotic-factions/)** — the machine-cult aesthetic behind the rust
+- 👉 **[Warp Travel Explained](/warp-travel-explained/)** — why lost ships come back rusted
 
-> **Rust is storytelling in paint.** Every chip says what happened to this machine — decide the story before the first stroke. **[Shop rust & weathering paints →](/shop/weathering/)** *(affiliate links)*
+> **Rust is storytelling in paint.** Every chip says what happened to this machine — decide the story before the first stroke. **[Shop rust & weathering paints →](#gear)** *(affiliate links)*

@@ -2,7 +2,7 @@
 
 **Short answer:** Crossing the galaxy means diving beneath reality into the Empyrean — a dimension of raw energy where distance means nothing and direction means less. Ships ride unstable currents between beacons, and when the storm surges, those beacons fail. That's when fleets are lost: some emerge decades later, empty and rusted, some never emerge at all.
 
-*URL: /lore/warp-travel-explained/ · Primary keyword: warp travel sci-fi lore*
+*URL: /warp-travel-explained/ · Primary keyword: warp travel sci-fi lore*
 
 > *Warpstorm is an original fictional universe, written as in-universe lore. Not affiliated with any other sci-fi franchise.*
 
@@ -38,9 +38,9 @@ Paint sessions and warp sagas go together. If you like the tone of this universe
 
 ## Continue Reading the Universe
 
-- 👉 **[What Is the Warpstorm?](/lore/what-is-the-warpstorm/)** — start here
-- 👉 **[The Fractured Factions of the Warpstorm](/lore/chaotic-factions/)**
-- 👉 **[7 Lost Expeditions Into the Warpstorm](/lore/lost-expedition-stories/)**
-- 👉 **[Object Source Lighting: Simple OSL Guide](/workbench/object-source-lighting/)** — paint the beacon-light
+- 👉 **[What Is the Warpstorm?](/what-is-the-warpstorm/)** — start here
+- 👉 **[The Fractured Factions of the Warpstorm](/chaotic-factions/)**
+- 👉 **[7 Lost Expeditions Into the Warpstorm](/lost-expedition-stories/)**
+- 👉 **[Object Source Lighting: Simple OSL Guide](/object-source-lighting/)** — paint the beacon-light
 
 > **Every route you've ever flown was drawn by someone who didn't survive drawing it.** Read the lost expeditions next.

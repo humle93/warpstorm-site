@@ -2,7 +2,7 @@
 
 **Short answer:** Three powers fight for the storm's edge: the **Industrial Zealots** (machine-worshipping forges), the **Void Nomads** (stateless storm-riders) and the **Corrupt Cults** (chaos-mystics seeking revelation in broken physics). Each faction has its own ideology, colours and aesthetic — and each is playable as a miniature force, kitbash or paint project.
 
-*URL: /lore/chaotic-factions/ · Primary keyword: dark sci-fi factions*
+*URL: /chaotic-factions/ · Primary keyword: dark sci-fi factions*
 
 > *Warpstorm is an original fictional universe. Not affiliated with any other sci-fi franchise or games company.*
 
@@ -17,7 +17,7 @@ The settled systems send armadas. The storm eats them. What remains around the W
 - **Look:** Massive forge-shrines, riveted armour, copper and black iron, exhaust-stacks like cathedral spires
 - **Palette:** oxidized copper, soot black, ember orange
 - **On the table:** slow, brutal, armour-heavy forces built around a central engine-shrine
-- **Paint guide match:** [rust and battle damage](/workbench/rust-and-battle-damage/) is their entire aesthetic
+- **Paint guide match:** [rust and battle damage](/rust-and-battle-damage/) is their entire aesthetic
 
 The Zealots believe every storm flare is a sermon and every lost ship an offering. Their forges have never gone cold.
 
@@ -28,7 +28,7 @@ The Zealots believe every storm flare is a sermon and every lost ship an offerin
 - **Look:** patched-together ships, mismatched armour, sails and antenna masts, trophies from a hundred ports
 - **Palette:** storm grey, teal glow accents, salt-white
 - **On the table:** fast, raid-focused forces; every model unique, every vehicle kitbashed
-- **Paint guide match:** [kitbashing guide](/workbench/kitbashing-guide/) — a Nomad army is *built* to be one-of-a-kind
+- **Paint guide match:** [kitbashing guide](/kitbashing-guide/) — a Nomad army is *built* to be one-of-a-kind
 
 Their fleets appear without warning, trade at honest prices in stolen goods, and vanish before the bill arrives.
 
@@ -39,7 +39,7 @@ Their fleets appear without warning, trade at honest prices in stolen goods, and
 - **Look:** ritual-glowing relics fused with salvaged tech, robed figures, asymmetrical mutation of form
 - **Palette:** violet portal-light, abyssal black, bone
 - **On the table:** unpredictable, trick-heavy forces centred on relics and portals
-- **Paint guide match:** [OSL guide](/workbench/object-source-lighting/) — nothing says Cult like a glowing relic at the wrong moment
+- **Paint guide match:** [OSL guide](/object-source-lighting/) — nothing says Cult like a glowing relic at the wrong moment
 
 Their knowledge is real, their miracles are real, and their price is never money.
 
@@ -53,9 +53,9 @@ Their knowledge is real, their miracles are real, and their price is never money
 
 ## Continue Reading
 
-- 👉 **[What Is the Warpstorm?](/lore/what-is-the-warpstorm/)** — the universe's starting point
-- 👉 **[Warp Travel Explained](/lore/warp-travel-explained/)** — the routes the factions fight over
-- 👉 **[7 Lost Expeditions Into the Warpstorm](/lore/lost-expedition-stories/)** — where the factions meet their end
-- 👉 **[Easy Weathering Techniques](/workbench/easy-weathering-techniques/)** — every faction wears grime
+- 👉 **[What Is the Warpstorm?](/what-is-the-warpstorm/)** — the universe's starting point
+- 👉 **[Warp Travel Explained](/warp-travel-explained/)** — the routes the factions fight over
+- 👉 **[7 Lost Expeditions Into the Warpstorm](/lost-expedition-stories/)** — where the factions meet their end
+- 👉 **[Easy Weathering Techniques](/easy-weathering-techniques/)** — every faction wears grime
 
 > **Three answers to one impossible storm. Pick yours — then paint it.**

@@ -2,7 +2,7 @@
 
 **Short answer:** Three tools matter more than everything else: Kolinsky sable brushes (#0, #1, #2), a wet palette, and a daylight lamp. Add side cutters, a hobby knife and needle files for prep, and you own 95% of what a professional painter uses. Skip the 50-brush sets and the giant paint hauls — they slow beginners down.
 
-*URL: /workbench/best-hobby-tools/ · Primary keyword: miniature painting tools*
+*URL: /best-hobby-tools/ · Primary keyword: miniature painting tools*
 
 > *Disclosure: Some links on this page are affiliate links — if you buy through them, we may earn a small commission at no extra cost to you.*
 
@@ -65,9 +65,9 @@ A daylight lamp. Everyone buys it after a year of painting in yellow room light 
 
 ## Continue on the Workbench
 
-- 👉 **[How to Paint Glowing Plasma Effects](/workbench/glowing-plasma-effects/)** — what good brushes unlock
-- 👉 **[Airbrush for Miniatures: Beginner Setup](/workbench/airbrush-for-beginners/)** — the next tool tier
-- 👉 **[Easy Weathering Techniques](/workbench/easy-weathering-techniques/)** — cheap tools, big impact
+- 👉 **[How to Paint Glowing Plasma Effects](/glowing-plasma-effects/)** — what good brushes unlock
+- 👉 **[Airbrush for Miniatures: Beginner Setup](/airbrush-for-beginners/)** — the next tool tier
+- 👉 **[Easy Weathering Techniques](/easy-weathering-techniques/)** — cheap tools, big impact
 - 👉 **[How to Start Warhammer 40K](/how-to-start-warhammer-40k/)** — tools in context of the first 30 days
 
-> **Buy the trinity, skip the rest.** Three brushes, a wet palette and a lamp outperform any big-box haul. **[Get the painter's trinity →](/shop/tools/)** *(affiliate links)*
+> **Buy the trinity, skip the rest.** Three brushes, a wet palette and a lamp outperform any big-box haul. **[Get the painter's trinity →](#gear)** *(affiliate links)*
