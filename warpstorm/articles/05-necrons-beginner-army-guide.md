@@ -81,7 +81,7 @@ One Warrior box and one fast or melee box gets you to 1,000 points. Add your fir
 - 👉 **[Space Marines Beginner Army Guide](/space-marines-beginner-army-guide/)** — the alternative
 - 👉 **[How to Paint Your First Miniature: Step-by-Step](/how-to-paint-first-miniature/)**
 
-> **The tomb worlds are waking. Your legion is one silver basecoat away from the table.** **[Compare the starter sets with Necrons →](/best-warhammer-40k-starter-set/)**
+> **The tomb worlds are waking. Your legion is one silver basecoat away from the table.** **[Shop beginner-friendly Necron boxes →](/shop/necrons/)** *(affiliate links)*
 
 ---
 

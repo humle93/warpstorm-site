@@ -2,7 +2,7 @@
 
 **Short answer:** Three tools matter more than everything else: Kolinsky sable brushes (#0, #1, #2), a wet palette, and a daylight lamp. Add side cutters, a hobby knife and needle files for prep, and you own 95% of what a professional painter uses. Skip the 50-brush sets and the giant paint hauls — they slow beginners down.
 
-*URL: /best-hobby-tools/ · Primary keyword: miniature painting tools*
+*URL: /workbench/best-hobby-tools/ · Primary keyword: miniature painting tools*
 
 > *Disclosure: Some links on this page are affiliate links — if you buy through them, we may earn a small commission at no extra cost to you.*
 
@@ -38,16 +38,16 @@ Painting fatigue is real: hand tremor after 90 minutes ruins detail work.
 
 ## Product Roundup
 
-| Pick | Why | Priority | Buy |
-|---|---|---|---|
-| Winsor & Newton Series 7 Kolinsky (#0, #1, #2) | The core of every session | Buy first | [Check price →](/go/ws7-set/) |
-| Redgrass Games Everlasting Wet Palette | Paint stays workable, thinning gets consistent | Buy first | [Check price →](/go/redgrass-wet-palette/) |
-| LED desk lamp, CRI 95+, 5000–6500 K | True colours, no shadows | Buy first | [Check price →](/go/daylight-lamp/) |
-| Flush sprue cutters (e.g. Xuron 2175B) | Clean sprue removal | Buy with first kit | [Check price →](/go/xuron-cutters/) |
-| X-Acto #1 hobby knife + needle file set | Mould lines and clean joins | Buy with first kit | [Check price →](/go/knife-files/) |
-| The Masters Brush Cleaner & Preserver | Triples brush lifespan | Buy with brushes | [Check price →](/go/masters-brush-soap/) |
+| Item | Why it's here | Priority |
+|---|---|---|
+| Kolinsky brush set (#0/#1/#2) | The core of every session | Buy first |
+| Wet palette | Paint stays workable, thinning gets consistent | Buy first |
+| Daylight lamp (high CRI) | True colours, no shadows | Buy first |
+| Flush side cutters | Clean sprue removal | Buy with first kit |
+| Hobby knife + files | Mould lines and clean joins | Buy with first kit |
+| Brush soap | Triples brush lifespan | Buy with brushes |
 
-*(Affiliate links — buying through them supports the workbench. Prices and stock change — each link opens the current listing.)*
+*(Affiliate links — buying through them keeps the guides free.)*
 
 ## FAQ
 
@@ -65,9 +65,9 @@ A daylight lamp. Everyone buys it after a year of painting in yellow room light 
 
 ## Continue on the Workbench
 
-- 👉 **[How to Paint Glowing Plasma Effects](/glowing-plasma-effects/)** — what good brushes unlock
-- 👉 **[Airbrush for Miniatures: Beginner Setup](/airbrush-for-beginners/)** — the next tool tier
-- 👉 **[Easy Weathering Techniques](/easy-weathering-techniques/)** — cheap tools, big impact
+- 👉 **[How to Paint Glowing Plasma Effects](/workbench/glowing-plasma-effects/)** — what good brushes unlock
+- 👉 **[Airbrush for Miniatures: Beginner Setup](/workbench/airbrush-for-beginners/)** — the next tool tier
+- 👉 **[Easy Weathering Techniques](/workbench/easy-weathering-techniques/)** — cheap tools, big impact
 - 👉 **[How to Start Warhammer 40K](/how-to-start-warhammer-40k/)** — tools in context of the first 30 days
 
-> **Buy the trinity, skip the rest.** Three brushes, a wet palette and a lamp outperform any big-box haul. **[Get the painter's trinity →](#gear)** *(affiliate links)*
+> **Buy the trinity, skip the rest.** Three brushes, a wet palette and a lamp outperform any big-box haul. **[Get the painter's trinity →](/shop/tools/)** *(affiliate links)*

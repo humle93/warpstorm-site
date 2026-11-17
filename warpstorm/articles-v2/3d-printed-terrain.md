@@ -2,7 +2,7 @@
 
 **Short answer:** For tabletop terrain, choose FDM for large, sturdy pieces and resin for detail-rich small pieces. Print walls and ruins at 0.2 mm layer height with 8–10% infill, prime with filler-primed spray, and paint fast with contrast paints and drybrushing. One well-chosen print settings page saves you a spool of failed plastic.
 
-*URL: /3d-printed-terrain/ · Primary keyword: 3d printed tabletop terrain*
+*URL: /workbench/3d-printed-terrain/ · Primary keyword: 3d printed tabletop terrain*
 
 > *Disclosure: Some links on this page are affiliate links — if you buy through them, we may earn a small commission at no extra cost to you.*
 
@@ -44,20 +44,20 @@ Terrain is where speed techniques shine — one wall is "miniature surface" a hu
 2. **Contrast-style paint over the whole piece** with a large brush — one pass, no blending
 3. **Drybrush** the raised edges in a lighter stone tone — this is 80% of the visual payoff
 4. **Wash the lowest third** darker to ground the piece
-5. Optional: **pigments** on horizontal ledges for dust (see [easy weathering](/easy-weathering-techniques/))
+5. Optional: **pigments** on horizontal ledges for dust (see [easy weathering](/workbench/easy-weathering-techniques/))
 
 A full table of terrain (a dozen pieces) is a two-weekend project with this method.
 
 ## Recommended Printers and Filaments
 
-| Pick | Why | Level | Buy |
-|---|---|---|---|
-| FDM printer with a big bed (e.g. Bambu Lab A1, 256 mm cube) | Large build volume beats fancy features | Beginner | [Check price →](/go/bambu-a1/) |
-| eSUN PLA+ filament, grey | Sturdy, hides layer lines, cheap | All | [Check price →](/go/esun-pla-grey/) |
-| Filler primer spray (e.g. Rust-Oleum Filler Primer) | Smooths layer lines fast | All | [Check price →](/go/filler-primer/) |
-| Drybrush set (e.g. Artis Opus Series D) | Terrain-sized brushes for terrain-sized jobs | All | [Check price →](/go/artis-opus-d/) |
+| Item | Why | Level |
+|---|---|---|
+| Beginner FDM printer | Large build volume beats fancy features | Beginner |
+| PLA+ filament (grey) | Sturdy, hides lines, cheap | All |
+| Filler primer spray | Smooths layer lines fast | All |
+| Large drybrush set | Terrain-sized tools for terrain-sized jobs | All |
 
-*(Affiliate links — buying through them supports the workbench. Prices and stock change — each link opens the current listing.)*
+*(Affiliate links — buying through them supports the workbench.)*
 
 ## FAQ
 
@@ -75,9 +75,9 @@ Print in modular sections with flat contact faces, base everything, and store in
 
 ## Continue on the Workbench
 
-- 👉 **[Kitbashing Guide: Unique Sci-Fi Miniatures](/kitbashing-guide/)** — print bitz, not just walls
-- 👉 **[Easy Weathering Techniques for Miniatures](/easy-weathering-techniques/)** — pigments on printed concrete
-- 👉 **[How to Paint Rust, Chipping and Battle Damage](/rust-and-battle-damage/)** — ruins love rust
-- 👉 **[7 Lost Expeditions Into the Warpstorm](/lost-expedition-stories/)** — wreck-terrain inspiration
+- 👉 **[Kitbashing Guide: Unique Sci-Fi Miniatures](/workbench/kitbashing-guide/)** — print bitz, not just walls
+- 👉 **[Easy Weathering Techniques for Miniatures](/workbench/easy-weathering-techniques/)** — pigments on printed concrete
+- 👉 **[How to Paint Rust, Chipping and Battle Damage](/workbench/rust-and-battle-damage/)** — ruins love rust
+- 👉 **[7 Lost Expeditions Into the Warpstorm](/lore/lost-expedition-stories/)** — wreck-terrain inspiration
 
-> **A printed ruin beats an unplayed table.** Print one wall section this week, paint it in one evening, and put it on the table. **[Shop beginner printers →](#gear)** *(affiliate links)*
+> **A printed ruin beats an unplayed table.** Print one wall section this week, paint it in one evening, and put it on the table. **[Shop beginner printers →](/shop/printers/)** *(affiliate links)*

@@ -2,7 +2,7 @@
 
 **Short answer:** Three techniques cover 90% of beginner weathering: sponge chipping for worn edges, streaking grime for vertical runs, and pigment powders for dust and mud. All three need no special skills — just dark paints, a torn foam pad and patience. Start with one technique per model, not three at once.
 
-*URL: /easy-weathering-techniques/ · Primary keyword: easy weathering techniques miniatures*
+*URL: /workbench/easy-weathering-techniques/ · Primary keyword: easy weathering techniques miniatures*
 
 > *Disclosure: Some links on this page are affiliate links — if you buy through them, we may earn a small commission at no extra cost to you.*
 
@@ -41,15 +41,14 @@ Concentrate pigments where the model touches the world: the lowest 20% of the mi
 
 ## Recommended Hobby Supplies
 
-| Pick | Why | Level | Buy |
-|---|---|---|---|
-| AK Interactive weathering pigments (earth tones) | Dust, mud and soot in one box | Beginner-friendly | [Check price →](/go/ak-pigments/) |
-| AK Interactive Streaking Grime (enamel) | The pro shortcut for panel runs | Intermediate | [Check price →](/go/ak-streaking-grime/) |
-| Odourless enamel thinner (e.g. AK Interactive White Spirit) | Blends and removes enamel streaks | Intermediate | [Check price →](/go/ak-odourless-thinner/) |
-| Makeup sponge wedges (bulk pack) | Cheaper than hobby sponges, same result | All | [Check price →](/go/makeup-sponges/) |
-| AK Interactive Pigment Fixer | Keeps dust where you put it | All | [Check price →](/go/ak-pigment-fixer/) |
+| Item | Why it matters | Level |
+|---|---|---|
+| Weathering pigment set (earth tones) | Dust, mud and soot in one box | Beginner-friendly |
+| Streaking grime enamel | The pro shortcut for panel runs | Intermediate |
+| Makeup sponge pack | Cheaper than hobby sponges, same result | All |
+| Pigment fixer | Keeps dust where you put it | All |
 
-*(Affiliate links — buying through them supports the workbench. Prices and stock change — each link opens the current listing.)*
+*(Affiliate links — support more guides by buying through them.)*
 
 ## FAQ
 
@@ -67,9 +66,9 @@ Unfixed pigments do. Use pigment fixer, or seal the model with matte varnish aft
 
 ## Continue on the Workbench
 
-- 👉 **[How to Paint Rust, Chipping and Battle Damage](/rust-and-battle-damage/)** — the deeper version of Step 1
-- 👉 **[How to Paint Glowing Plasma Effects](/glowing-plasma-effects/)** — contrast: clean glow on grim armour
-- 👉 **[Kitbashing Guide: Unique Sci-Fi Miniatures](/kitbashing-guide/)**
-- 👉 **[The Corrupt Cults: Faction Lore](/chaotic-factions/)** — the rusted aesthetic, explained
+- 👉 **[How to Paint Rust, Chipping and Battle Damage](/workbench/rust-and-battle-damage/)** — the deeper version of Step 1
+- 👉 **[How to Paint Glowing Plasma Effects](/workbench/glowing-plasma-effects/)** — contrast: clean glow on grim armour
+- 👉 **[Kitbashing Guide: Unique Sci-Fi Miniatures](/workbench/kitbashing-guide/)**
+- 👉 **[The Corrupt Cults: Faction Lore](/lore/chaotic-factions/)** — the rusted aesthetic, explained
 
-> **Weather one model completely before touching the squad.** Your first weathered miniature teaches more than ten tutorials. **[Get a pigment starter set →](#gear)** *(affiliate links)*
+> **Weather one model completely before touching the squad.** Your first weathered miniature teaches more than ten tutorials. **[Get a pigment starter set →](/shop/weathering/)** *(affiliate links)*

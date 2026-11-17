@@ -82,7 +82,7 @@ Both are top beginner picks. Marines win on community support and starter-box av
 - 👉 **[Necrons Beginner Army Guide](/necrons-beginner-army-guide/)** — the alternative
 - 👉 **[How to Paint Your First Miniature: Step-by-Step](/how-to-paint-first-miniature/)**
 
-> **The Emperor protects — but painting protects your motivation.** Get ten Marines built and painted before buying anything else. **[Compare the starter sets with Marines →](/best-warhammer-40k-starter-set/)**
+> **The Emperor protects — but painting protects your motivation.** Get ten Marines built and painted before buying anything else. **[Shop beginner-friendly Marine boxes →](/shop/space-marines/)** *(affiliate links)*
 
 ---
 

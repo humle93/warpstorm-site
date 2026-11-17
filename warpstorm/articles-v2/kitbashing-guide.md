@@ -2,7 +2,7 @@
 
 **Short answer:** Kitbashing means combining parts from different kits to build a model nobody can buy. Start with a donor model, harvest "bitz" from a spares box, cut and pin the joins, fill the gaps, and — most importantly — keep the silhouette balanced: one dominant element, two supporting elements, everything else subordinate.
 
-*URL: /kitbashing-guide/ · Primary keyword: kitbashing miniatures guide*
+*URL: /workbench/kitbashing-guide/ · Primary keyword: kitbashing miniatures guide*
 
 > *Disclosure: Some links on this page are affiliate links — if you buy through them, we may earn a small commission at no extra cost to you.*
 
@@ -45,15 +45,14 @@ If three elements fight for dominance, remove one. Squint at the model: if the s
 
 ## Recommended Hobby Kits and Tools
 
-| Pick | Why | Level | Buy |
-|---|---|---|---|
-| Hobby starter tool kit (e.g. The Army Painter Tool Kit) | Knife, cutters and files in one buy | Beginner | [Check price →](/go/hobby-tool-kit/) |
-| Tamiya Extra Thin Cement | Welds plastic parts with clean, thin seams | All | [Check price →](/go/tamiya-extra-thin/) |
-| Kneadatite green stuff (2-part putty) | Gap-filling and sculpting | All | [Check price →](/go/green-stuff/) |
-| Pin vise with 0.5–3 mm drill bits | Strong joins for heavy parts | Intermediate | [Check price →](/go/pin-vise/) |
-| Plastic card & rod assortment (e.g. Evergreen) | Armour plates, pipes and panels from scratch | All | [Check price →](/go/plasticard-assortment/) |
+| Item | Why | Level |
+|---|---|---|
+| Hobby starter tool set | Knife, cutters, files in one buy | Beginner |
+| Green stuff (2-part putty) | Gap-filling and sculpting | All |
+| Pin drill set | Strong joins for heavy bitz | Intermediate |
+| Spares/bitz assortment packs | Instant parts library | All |
 
-*(Affiliate links — buying through them supports the workbench. Prices and stock change — each link opens the current listing.)*
+*(Affiliate links — buying through them supports more guides.)*
 
 ## FAQ
 
@@ -71,9 +70,9 @@ Build one conversion from one donor kit with only weapon swaps first. Scale awar
 
 ## Continue on the Workbench
 
-- 👉 **[Best Hobby Tools for Miniature Painting](/best-hobby-tools/)** — the tooling behind clean conversions
-- 👉 **[3D Printed Terrain for Tabletop Games](/3d-printed-terrain/)** — print your own bitz
-- 👉 **[Easy Weathering Techniques](/easy-weathering-techniques/)** — unify kitbashed parts with grime
-- 👉 **[The Fractured Factions of the Warpstorm](/chaotic-factions/)** — lore to inspire your next conversion
+- 👉 **[Best Hobby Tools for Miniature Painting](/workbench/best-hobby-tools/)** — the tooling behind clean conversions
+- 👉 **[3D Printed Terrain for Tabletop Games](/workbench/3d-printed-terrain/)** — print your own bitz
+- 👉 **[Easy Weathering Techniques](/workbench/easy-weathering-techniques/)** — unify kitbashed parts with grime
+- 👉 **[The Fractured Factions of the Warpstorm](/lore/chaotic-factions/)** — lore to inspire your next conversion
 
-> **Your spares box is an unopened army.** Build one conversion this month — even a single weapon swap counts. **[Get the kitbashing tool set →](#gear)** *(affiliate links)*
+> **Your spares box is an unopened army.** Build one conversion this month — even a single weapon swap counts. **[Get the kitbashing tool set →](/shop/tools/)** *(affiliate links)*

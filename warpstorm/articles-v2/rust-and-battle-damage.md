@@ -2,7 +2,7 @@
 
 **Short answer:** Paint rust in three layers — dark brown base in recesses, orange-brown texture in the middle, bright metallic chips on the sharpest edges — and create physical damage by scoring the model with a hobby knife before painting. Real chips show bare metal, not just brown paint. That metallic flash is what sells the effect.
 
-*URL: /rust-and-battle-damage/ · Primary keyword: miniature rust weathering*
+*URL: /workbench/rust-and-battle-damage/ · Primary keyword: miniature rust weathering*
 
 > *Disclosure: Some links on this page are affiliate links — if you buy through them, we may earn a small commission at no extra cost to you.*
 
@@ -38,14 +38,14 @@ Gravity drags rust downward from the damage point. From the bottom edge of each 
 
 ## Recommended Weathering Paints
 
-| Pick | Why | Level | Buy |
-|---|---|---|---|
-| Rust effects paint set (Vallejo or AK Interactive) | Pre-mixed orange/brown spectrum | Beginner | [Check price →](/go/rust-effects-set/) |
-| Chipping medium (AK Worn Effects or Vallejo Chipping Medium) | Layer trick: paint breaks away realistically | Intermediate | [Check price →](/go/chipping-medium/) |
-| Vallejo Metal Color Silver | Chip cores — you'll use it constantly | All | [Check price →](/go/vallejo-metal-silver/) |
-| AK Interactive Pigment Fixer | Locks powdery rust dust | All | [Check price →](/go/ak-pigment-fixer/) |
+| Product type | Use | Level |
+|---|---|---|
+| Rust effect paint set | Pre-mixed orange/brown spectrum | Beginner |
+| Chipping medium | Layer trick: paint breaks away realistically | Intermediate |
+| Bright silver (metallic) | Chip cores — you'll use it constantly | All |
+| Pigment fixer | Locks powdery rust dust | All |
 
-*(Affiliate links — buying through them supports the workbench. Prices and stock change — each link opens the current listing.)*
+*(Affiliate links — buying through them keeps the guides free.)*
 
 ## FAQ
 
@@ -63,9 +63,9 @@ Vehicles: 5–10 spots. Infantry: 2–3 subtle chips. The model must remain read
 
 ## Continue on the Workbench
 
-- 👉 **[Easy Weathering Techniques for Miniatures](/easy-weathering-techniques/)** — sponge chipping, streaks and dust
-- 👉 **[Best Hobby Tools for Miniature Painting](/best-hobby-tools/)** — the knife and files this guide assumes
-- 👉 **[The Industrial Zealots: Faction Lore](/chaotic-factions/)** — the machine-cult aesthetic behind the rust
-- 👉 **[Warp Travel Explained](/warp-travel-explained/)** — why lost ships come back rusted
+- 👉 **[Easy Weathering Techniques for Miniatures](/workbench/easy-weathering-techniques/)** — sponge chipping, streaks and dust
+- 👉 **[Best Hobby Tools for Miniature Painting](/workbench/best-hobby-tools/)** — the knife and files this guide assumes
+- 👉 **[The Industrial Zealots: Faction Lore](/lore/chaotic-factions/)** — the machine-cult aesthetic behind the rust
+- 👉 **[Warp Travel Explained](/lore/warp-travel-explained/)** — why lost ships come back rusted
 
-> **Rust is storytelling in paint.** Every chip says what happened to this machine — decide the story before the first stroke. **[Shop rust & weathering paints →](#gear)** *(affiliate links)*
+> **Rust is storytelling in paint.** Every chip says what happened to this machine — decide the story before the first stroke. **[Shop rust & weathering paints →](/shop/weathering/)** *(affiliate links)*

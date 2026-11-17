@@ -80,7 +80,7 @@ Absolutely — every model in a starter box is a full legal unit you'll keep usi
 - 👉 **[Space Marines Beginner Army Guide](/space-marines-beginner-army-guide/)**
 - 👉 **[Necrons Beginner Army Guide](/necrons-beginner-army-guide/)**
 
-> **One box. Two armies. Zero excuses.** Pick the starter set that fits your budget and get your first ten models built this week. **[Compare the three boxes →](#compare)**
+> **One box. Two armies. Zero excuses.** Pick the starter set that fits your budget and get your first ten models built this week. **[See today's starter set prices →](/shop/starter-sets/)** *(affiliate links)*
 
 ---
 

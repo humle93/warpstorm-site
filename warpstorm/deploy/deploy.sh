@@ -9,9 +9,6 @@
 # Idempotent: kan genkøres — eksisterende objekter springes over.
 # ============================================================
 set -u
-echo 'STOP: deploy.sh er v1 (Grimdark-pakken) og overskriver det live site (sprog da_DK, danske kategorier).' >&2
-echo 'Brug deploy/RUNBOOK.md (v2). Kør kun v1 med LEGACY_V1=1.' >&2
-[ "${LEGACY_V1:-0}" = "1" ] || exit 2
 BASE="${1:-https://warpstorm.online}"
 HERE="$(cd "$(dirname "$0")" && pwd)"
 AUTH_FILE="${AUTH_FILE:-/workspace/warpstorm/.wp-auth-online}"

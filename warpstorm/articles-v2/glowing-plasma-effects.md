@@ -2,7 +2,7 @@
 
 **Short answer:** Block in the glow with a dark base, add a midtone halo around the light source, then build a gradient of three brighter tones toward the centre and finish with pinpoint white highlights. Add reflected glow on nearby surfaces — that final step is what makes plasma effects look real instead of painted-on.
 
-*URL: /glowing-plasma-effects/ · Primary keyword: glowing plasma effects miniatures*
+*URL: /workbench/glowing-plasma-effects/ · Primary keyword: glowing plasma effects miniatures*
 
 > *Disclosure: Some links on this page are affiliate links — if you buy through them, we may earn a small commission at no extra cost to you.*
 
@@ -48,14 +48,14 @@ Give your models the Warpstorm signature: paint the glow in **storm-green/turquo
 
 ## Recommended Paints and Tools
 
-| Pick | Why | Level | Buy |
-|---|---|---|---|
-| Acrylic starter set (Vallejo Game Color or The Army Painter) | Covers every glow hue you need (blues, violets, greens) | Beginner | [Check price →](/go/acrylic-starter-set/) |
-| Vallejo Glaze Medium | Smooths gradients without re-thinning | Intermediate | [Check price →](/go/vallejo-glaze-medium/) |
-| Winsor & Newton Series 7 Kolinsky #0 | Sharp pinpoint highlights | All | [Check price →](/go/ws7-0/) |
-| Redgrass Games Everlasting Wet Palette | Keeps thin glow mixes workable for hours | All | [Check price →](/go/redgrass-wet-palette/) |
+| Item | Why | Level |
+|---|---|---|
+| Starter acrylic set (blues/violets/greens) | Covers every glow hue you need | Beginner |
+| Glaze medium | Smooths gradients without re-thinning | Intermediate |
+| Kolinsky detail brush #0 | Sharp pinpoint highlights | All |
+| Wet palette | Keeps thin glow mixes workable for hours | All |
 
-*(Affiliate links — buying through them supports the workbench. Prices and stock change — each link opens the current listing.)*
+*(Affiliate links — buy through them to support more guides.)*
 
 ## FAQ
 
@@ -73,9 +73,9 @@ Mix one batch of each shade on a wet palette and paint all units in one session.
 
 ## Continue on the Workbench
 
-- 👉 **[Easy Weathering Techniques for Miniatures](/easy-weathering-techniques/)** — the perfect partner to glow effects
-- 👉 **[Object Source Lighting: Simple OSL Guide](/object-source-lighting/)** — the advanced version of this technique
-- 👉 **[Best Hobby Tools for Miniature Painting](/best-hobby-tools/)** — brushes and lamps that make this easier
-- 👉 **[What Is the Warpstorm?](/what-is-the-warpstorm/)** — the lore behind the storm-green glow
+- 👉 **[Easy Weathering Techniques for Miniatures](/workbench/easy-weathering-techniques/)** — the perfect partner to glow effects
+- 👉 **[Object Source Lighting: Simple OSL Guide](/workbench/object-source-lighting/)** — the advanced version of this technique
+- 👉 **[Best Hobby Tools for Miniature Painting](/workbench/best-hobby-tools/)** — brushes and lamps that make this easier
+- 👉 **[What Is the Warpstorm?](/lore/what-is-the-warpstorm/)** — the lore behind the storm-green glow
 
-> **Paint one test model before the squad.** Ten minutes on a single miniature saves three hours of repainting. **[Get the glow palette →](#gear)** *(affiliate links)*
+> **Paint one test model before the squad.** Ten minutes on a single miniature saves three hours of repainting. **[Get the glow palette →](/shop/paints/)** *(affiliate links)*
