@@ -129,3 +129,43 @@ Alle ændringer lavet med `wp_replace_in_post` (`expected_count`) eller side-opd
   `deploy/payloads/`, `deploy/lib/payloads-json/` og spejlet `warpstorm/`, og behold
   `articles-v2/` → `html-v2/` → `payloads-final/`.
 - Alt indhold på engelsk. Ingen Games Workshop-navne, -logoer eller -billeder i shop og tabeller (IP-reglen i README).
+
+
+---
+
+## Release 2 (18/11/2026) — opt-in Warpstorm UI plugin, not yet live
+
+This release is deliberately separate from Release 1 affiliate changes. **GitHub build != WordPress deployment.** It can be developed with GitHub alone; installing on Hostinger requires an authenticated owner/admin or scoped connector.
+
+### Prerequisites and preflight
+1. Review `CLAUDE.md` and `docs/UI-SPEC.md`.
+2. Confirm current site URL, WP admin/editor, active theme, nav blocks and page titles. 16/11 snapshot is historic, not a fresh audit.
+3. Capture screenshots/metrics for homepage, one guide and a category on 320, 375, 768 and 1440px. Record current CWV if available.
+4. Full Hostinger file+DB backup; preserve current homepage and page revisions.
+5. Ensure no outstanding maintenance, cache mismatch or live HTML drift.
+
+### Build (no sudo)
+```bash
+git switch feat/warpstorm-ui-build-20261118
+bash scripts/build-warpstorm-ui.sh --check
+bash scripts/build-warpstorm-ui.sh --package
+unzip -l build/warpstorm-ui.zip
+```
+Alternative: download the GitHub Actions artifact `warpstorm-ui-wordpress-plugin` after CI succeeds.
+
+### Staging canary
+1. Install `warpstorm-ui.zip` via WordPress Plugins → Add New → Upload Plugin on staging; activate.
+2. Test existing published pages **before** inserting shortcode. No content or settings are rewritten by plugin activation.
+3. Create a new draft page with a Shortcode block containing `[warpstorm_hub]`. Preview; if template already displays a page-title H1, adjust template on staging or use a dedicated hub template.
+4. Test category links actually exist; list filters; JS disabled fallback; exact mobile widths; keyboard focus; nav overlay open and close; article links.
+5. If homepage replacement is chosen, capture its original page ID/slug, publish only after acceptance and switch homepage in WP Settings → Reading using a planned release.
+6. Purge W3 Total Cache only after the canary is approved; verify public URLs, screenshots, SEO meta and search console.
+
+### Failure / rollback
+- Deactivate `Warpstorm UI` plugin: design layer removed; original content remains. For an inserted shortcode/homepage change restore previous WordPress page revision and previous homepage setting.
+- If fatal error blocks wp-admin, rename/remove plugin folder via Hostinger File Manager/SFTP (do not edit database as first response).
+- Restore Hostinger snapshot if required, verifying no intervening editorial work is lost.
+- Document root cause and verified result in `articles/00-status.md`.
+
+### Operational handoff
+Claude and ChatGPT may work on repository code via GitHub. Direct production changes require separate, explicitly verified WordPress credentials/permissions; historical Novamira/Royal MCP mentions do not establish access today.
