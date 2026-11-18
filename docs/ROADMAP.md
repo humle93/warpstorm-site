@@ -1,5 +1,25 @@
 # Warpstorm — Roadmap
 
+## Release 2 — Mobile-first UI and deploy automation (18/11/2026)
+**Status: code committed on feature branch, NOT installed on production.** Repo-first work can proceed without a WordPress MCP connector.
+
+| Priority | Deliverable | Repo status | Live status / gate |
+|---|---|---|---|
+| P0 | Opt-in Warpstorm UI WordPress plugin: dark design layer, mobile navigation, accessible Workshop Hub, filtered live articles | Implemented on branch `feat/warpstorm-ui-build-20261118` | Staging install + mobile verification required |
+| P0 | Automated package/build and PHP/static contract tests | Script and GitHub Actions workflow added | CI run must pass; no claim of live test |
+| P0 | Safe Release 2 runbook, mobile QA and rollback | Documented in `deploy/RUNBOOK.md` | Hostinger backup and staging required |
+| P0 | Claude agent operating instructions | New root `CLAUDE.md` | Assistant may code in repo; no production access assumed |
+| P1 | Live site audit (navigation, templates, 320/375px overflow, link destinations, H1, CWV) | Checklist ready | Live inspection not available in current session |
+| P1 | Cookie consent, contact option, privacy slug and menu | Previously documented defects | Requires production access and verification |
+| P1 | Refresh Workbench images / tutorial media | Plan, no fabricated images/tests | Rights-confirmed originals + human editorial review |
+| P1 | Affiliate redirects and gear tables | Original Release 1 prepared, still gated | Real partner links, IP/legal review, canary first |
+| P2 | GSC-informed SEO clusters and original-universe products | Research brief added | Needs real query and conversion baseline |
+
+**Acceptance:** UI verified on staging at 320/375/390/768/1024/1440px; no horizontal overflow, mobile menu closes, accessible focus/filters, original posts untouched; package installs/rolls back; CI green. Never mark complete in production without evidence.
+
+**Important:** Do not run legacy `deploy/deploy.sh`. Do not bulk overwrite live WordPress articles. See `docs/UI-SPEC.md`, `docs/RESEARCH-2026-11-18.md` and `CLAUDE.md`.
+
+
 Status pr. **16. november 2026**. Sitet er live på https://warpstorm.online: 17 posts, 9 sider, 12 billeder,
 engelsk, Extendable-tema. Al status her er målt live (Warp-MCP) eller i repoet — ikke gættet.
 Detaljer pr. post og fejl: [`articles/00-status.md`](../articles/00-status.md). Sådan går ændringer live:

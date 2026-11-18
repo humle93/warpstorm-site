@@ -1,0 +1,44 @@
+name: Warpstorm UI CI
+
+on:
+  pull_request:
+    paths:
+      - "wordpress/plugins/warpstorm-ui/**"
+      - "tests/test_warpstorm_ui.py"
+      - "scripts/build-warpstorm-ui.sh"
+      - ".github/workflows/warpstorm-ui-ci.yml"
+  push:
+    branches:
+      - main
+      - "feat/warpstorm-ui-*"
+    paths:
+      - "wordpress/plugins/warpstorm-ui/**"
+      - "tests/test_warpstorm_ui.py"
+      - "scripts/build-warpstorm-ui.sh"
+      - ".github/workflows/warpstorm-ui-ci.yml"
+
+permissions:
+  contents: read
+
+jobs:
+  validate-and-package:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Set up PHP
+        uses: shivammathur/setup-php@v2
+        with:
+          php-version: "8.4"
+          tools: none
+          coverage: none
+      - name: Validate and package
+        run: bash scripts/build-warpstorm-ui.sh --package
+      - name: Verify ZIP contents
+        run: unzip -l build/warpstorm-ui.zip | grep "warpstorm-ui/warpstorm-ui.php"
+      - name: Upload staging plugin
+        uses: actions/upload-artifact@v4
+        with:
+          name: warpstorm-ui-wordpress-plugin
+          path: build/warpstorm-ui.zip
+          if-no-files-found: error
+          retention-days: 14

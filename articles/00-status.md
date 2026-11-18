@@ -67,3 +67,11 @@ Sider tilføjet 16/11: Terms & Conditions (id 161). Forsiden hedder nu "Home".
 ## Lukket siden 25/10
 - WAF-karantænen på POST og den blokerede REST-adgang: sitet blev bygget 25/10, og adgang sker nu via MCP (Warp/Steam-connectorerne).
 - TT5 + permalinks: sitet kører Extendable med `/%postname%/`.
+
+
+## 18/11/2026 — new UI code in GitHub branch (NOT a live re-audit)
+- Feature branch: `feat/warpstorm-ui-build-20261118`.
+- Added opt-in mobile-first WP plugin `wordpress/plugins/warpstorm-ui/`, filterable hub shortcode, standalone CSS/JS, automated package and contract tests.
+- Added `CLAUDE.md`, `docs/UI-SPEC.md`, `docs/RESEARCH-2026-11-18.md`, and Release 2 runbook.
+- External fetch of https://warpstorm.online was unavailable during this research. Latest *verified live snapshot* remains 16/11/2026.
+- Production changes: **none**. CI, plugin staging installation, real mobile QA and live deployment remain unverified.

@@ -30,3 +30,9 @@ status pr. post og fejl: [`articles/00-status.md`](articles/00-status.md) · dep
 ## Noter
 - Live-adgang for Claude: Warp-connectoren (Royal MCP) og Steam/Novamira. Containerens netværk når ikke warpstorm.online direkte.
 - Ændringer går live efter `deploy/RUNBOOK.md`, aldrig ved at skubbe hele repoet.
+
+
+## UI release 2 — opt-in staging package (18/11/2026)
+Branch: `feat/warpstorm-ui-build-20261118`. The new `wordpress/plugins/warpstorm-ui/` plugin provides a mobile-first frontend layer, accessible [warpstorm_hub] shortcode, category/article discovery and native navigation overlay enhancement.
+Build/test: `bash scripts/build-warpstorm-ui.sh --package`; creates `build/warpstorm-ui.zip`. CI artifact is also intended for WordPress staging installation.
+Read `CLAUDE.md`, `docs/UI-SPEC.md`, `docs/RESEARCH-2026-11-18.md` and `deploy/RUNBOOK.md` Release 2 before deploying. This is **not** installed live merely because it is in GitHub.
